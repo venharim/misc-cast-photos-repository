@@ -1,0 +1,1901 @@
+{
+  "name": "Misc Cast Library",
+  "description": "Cast photos from various franchises including Dead by Daylight and more",
+  "franchises": {
+    "DeadByDaylight": {
+      "name": "Dead by Daylight",
+      "categories": {
+        "Survivors": {
+          "name": "Survivors",
+          "cast": [
+            {
+              "id": "ace_dbd",
+              "name": "Ace",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Conman",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Ace.webp"
+            },
+            {
+              "id": "ada_dbd",
+              "name": "Ada",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Free Agent",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Ada.png"
+            },
+            {
+              "id": "aestri_dbd",
+              "name": "Aestri",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Aestri.webp"
+            },
+            {
+              "id": "alan_dbd",
+              "name": "Alan",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Ghost Devotee",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Alan.webp"
+            },
+            {
+              "id": "ash_dbd",
+              "name": "Ash",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Leader",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Ash.webp"
+            },
+            {
+              "id": "bill_dbd",
+              "name": "Bill",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Underdog",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Bill.webp"
+            },
+            {
+              "id": "cheryl_dbd",
+              "name": "Cheryl",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Wildcard",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Cheryl.png"
+            },
+            {
+              "id": "claudette_dbd",
+              "name": "Claudette",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Nerd",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Claudette.webp"
+            },
+            {
+              "id": "david_dbd",
+              "name": "David",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Rebel",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/David.webp"
+            },
+            {
+              "id": "dwight_dbd",
+              "name": "Dwight",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Awkward",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Dwight.png"
+            },
+            {
+              "id": "ellen_dbd",
+              "name": "Ellen",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Scientist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Ellen.webp"
+            },
+            {
+              "id": "elodie_dbd",
+              "name": "Elodie",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Heiress",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Elodie.webp"
+            },
+            {
+              "id": "felix_dbd",
+              "name": "Felix",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Conservative",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Felix.webp"
+            },
+            {
+              "id": "feng_dbd",
+              "name": "Feng",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Gamer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Feng.webp"
+            },
+            {
+              "id": "gabriel_dbd",
+              "name": "Gabriel",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Scientist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Gabriel.webp"
+            },
+            {
+              "id": "haddie_dbd",
+              "name": "Haddie",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Tech Guru",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Haddie.png"
+            },
+            {
+              "id": "jake_dbd",
+              "name": "Jake",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Lone Wolf",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Jake.png"
+            },
+            {
+              "id": "jane_dbd",
+              "name": "Jane",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The TV Host",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Jane.webp"
+            },
+            {
+              "id": "jeff_dbd",
+              "name": "Jeff",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Rebel",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Jeff.webp"
+            },
+            {
+              "id": "jill_dbd",
+              "name": "Jill",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Jill.webp"
+            },
+            {
+              "id": "jonah_dbd",
+              "name": "Jonah",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Conman",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Jonah.webp"
+            },
+            {
+              "id": "kate_dbd",
+              "name": "Kate",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Southern Belle",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Kate.png"
+            },
+            {
+              "id": "lara_dbd",
+              "name": "Lara",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Lara.webp"
+            },
+            {
+              "id": "laurie_dbd",
+              "name": "Laurie",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Girl Next Door",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Laurie.webp"
+            },
+            {
+              "id": "leon_dbd",
+              "name": "Leon",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Rookie",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Leon.webp"
+            },
+            {
+              "id": "meg_dbd",
+              "name": "Meg",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Jock",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Meg.webp"
+            },
+            {
+              "id": "michonne_dbd",
+              "name": "Michonne",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Trustworthy",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Michonne.webp"
+            },
+            {
+              "id": "mikaela_dbd",
+              "name": "Mikaela",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Clairvoyant",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Mikaela.png"
+            },
+            {
+              "id": "nancy_dbd",
+              "name": "Nancy",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Journalist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Nancy.png"
+            },
+            {
+              "id": "nea_dbd",
+              "name": "Nea",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Rebel",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Nea.png"
+            },
+            {
+              "id": "nicolas_dbd",
+              "name": "Nicolas",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Celebrity",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Nicolas.png"
+            },
+            {
+              "id": "quentin_dbd",
+              "name": "Quentin",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Quentin.webp"
+            },
+            {
+              "id": "rebecca_dbd",
+              "name": "Rebecca",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Healer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Rebecca.png"
+            },
+            {
+              "id": "renato_dbd",
+              "name": "Renato",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Wildcard",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Renato.webp"
+            },
+            {
+              "id": "rick_dbd",
+              "name": "Rick",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Leader",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Rick.jpeg"
+            },
+            {
+              "id": "sable_dbd",
+              "name": "Sable",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Ritualist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Sable.webp"
+            },
+            {
+              "id": "steve_dbd",
+              "name": "Steve",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Charmer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Steve.png"
+            },
+            {
+              "id": "taurie_dbd",
+              "name": "Taurie",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Devotee",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Taurie.webp"
+            },
+            {
+              "id": "thalita_dbd",
+              "name": "Thalita",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Hero",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Thalita.webp"
+            },
+            {
+              "id": "trevor_dbd",
+              "name": "Trevor",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Chosen Threat",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Trevor.webp"
+            },
+            {
+              "id": "tapp_dbd",
+              "name": "Tapp",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Leader",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Tapp.webp"
+            },
+            {
+              "id": "vee_dbd",
+              "name": "Vee",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Tech Guru",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Vee.png"
+            },
+            {
+              "id": "vittorio_dbd",
+              "name": "Vittorio",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Vittorio.webp"
+            },
+            {
+              "id": "yoichi_dbd",
+              "name": "Yoichi",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Clairvoyant",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Yoichi.webp"
+            },
+            {
+              "id": "yui_dbd",
+              "name": "Yui",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Rebel",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Yui.png"
+            },
+            {
+              "id": "yunjin_dbd",
+              "name": "Yun-Jin",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Idol",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Yun-Jin.webp"
+            },
+            {
+              "id": "zarina_dbd",
+              "name": "Zarina",
+              "franchise": "Dead by Daylight",
+              "category": "Survivors",
+              "archetype": "The Journalist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/Zarina.png"
+            }
+          ]
+        },
+        "Killers": {
+          "name": "Killers",
+          "cast": [
+            {
+              "id": "theanimator_dbd",
+              "name": "The Animatronic",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "Nonbinary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheAnimatronic.webp"
+            },
+            {
+              "id": "theartist_dbd",
+              "name": "The Artist",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheArtist.png"
+            },
+            {
+              "id": "theblight_dbd",
+              "name": "The Blight",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheBlight.webp"
+            },
+            {
+              "id": "thecannibal_dbd",
+              "name": "The Cannibal",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheCannibal.png"
+            },
+            {
+              "id": "theclown_dbd",
+              "name": "The Clown",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheClown.webp"
+            },
+            {
+              "id": "thedarklord_dbd",
+              "name": "The Dark Lord",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheDarkLord.webp"
+            },
+            {
+              "id": "thedeathslinger_dbd",
+              "name": "The Deathslinger",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheDeathslinger.webp"
+            },
+            {
+              "id": "thedemogorgon_dbd",
+              "name": "The Demogorgon",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "Nonbinary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheDemogorgon.png"
+            },
+            {
+              "id": "thedoctor_dbd",
+              "name": "The Doctor",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheDoctor.webp"
+            },
+            {
+              "id": "thedredge_dbd",
+              "name": "The Dredge",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "Nonbinary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheDredge.webp"
+            },
+            {
+              "id": "theghoul_dbd",
+              "name": "The Ghoul",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheGhoul.webp"
+            },
+            {
+              "id": "thegoodguy_dbd",
+              "name": "The Good Guy",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheGoodGuy.webp"
+            },
+            {
+              "id": "thehag_dbd",
+              "name": "The Hag",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheHag.webp"
+            },
+            {
+              "id": "thehillbilly_dbd",
+              "name": "The Hillbilly",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/The_Hillbilly.webp"
+            },
+            {
+              "id": "thehoundmaster_dbd",
+              "name": "The Houndmaster",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheHoundmaster.png"
+            },
+            {
+              "id": "thehuntress_dbd",
+              "name": "The Huntress",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheHuntress.png"
+            },
+            {
+              "id": "theknight_dbd",
+              "name": "The Knight",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheKnight.png"
+            },
+            {
+              "id": "thekrasue_dbd",
+              "name": "The Krasue",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheKrasue.png"
+            },
+            {
+              "id": "thelegion_dbd",
+              "name": "The Legion",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "Nonbinary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheLegion.webp"
+            },
+            {
+              "id": "thelich_dbd",
+              "name": "The Lich",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheLich.webp"
+            },
+            {
+              "id": "themastermind_dbd",
+              "name": "The Mastermind",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheMastermind.webp"
+            },
+            {
+              "id": "thenightmare_dbd",
+              "name": "The Nightmare",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheNightmare.png"
+            },
+            {
+              "id": "thenurse_dbd",
+              "name": "The Nurse",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheNurse.webp"
+            },
+            {
+              "id": "theoni_dbd",
+              "name": "The Oni",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheOni.webp"
+            },
+            {
+              "id": "theonryo_dbd",
+              "name": "The Onryo",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheOnryo.webp"
+            },
+            {
+              "id": "thepig_dbd",
+              "name": "The Pig",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/ThePig.png"
+            },
+            {
+              "id": "theplague_dbd",
+              "name": "The Plague",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/ThePlague.webp"
+            },
+            {
+              "id": "thepyramidhead_dbd",
+              "name": "The Pyramid Head",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/ThePyramidHead.webp"
+            },
+            {
+              "id": "theshape_dbd",
+              "name": "The Shape",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheShape.webp"
+            },
+            {
+              "id": "thesingularity_dbd",
+              "name": "The Singularity",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "Nonbinary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheSingularity.webp"
+            },
+            {
+              "id": "theskullmerchant_dbd",
+              "name": "The Skull Merchant",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheSkullMerchant.webp"
+            },
+            {
+              "id": "thespirit_dbd",
+              "name": "The Spirit",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheSpirit.webp"
+            },
+            {
+              "id": "thetrapper_dbd",
+              "name": "The Trapper",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/The_Trapper.webp"
+            },
+            {
+              "id": "thetrickster_dbd",
+              "name": "The Trickster",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheTrickster.webp"
+            },
+            {
+              "id": "thetwins_dbd",
+              "name": "The Twins",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "Nonbinary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheTwins.png"
+            },
+            {
+              "id": "theunknown_dbd",
+              "name": "The Unknown",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "Nonbinary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheUnknown.webp"
+            },
+            {
+              "id": "thewraith_dbd",
+              "name": "The Wraith",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/The_Wraith.webp"
+            },
+            {
+              "id": "thexenomorph_dbd",
+              "name": "The Xenomorph",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "Nonbinary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/TheXenomorph.webp"
+            },
+            {
+              "id": "ghostface_dbd",
+              "name": "Ghost Face",
+              "franchise": "Dead by Daylight",
+              "category": "Killers",
+              "archetype": "The Stalker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/deadbydaylight-cast-photos/main/The%20Ghost%20Face.webp"
+            }
+          ]
+        }
+      }
+    },
+    "Scream": {
+      "name": "Scream",
+      "categories": {
+        "Scream": {
+          "name": "Scream",
+          "cast": [
+            {
+              "id": "sidney_scream",
+              "name": "Sidney Prescott",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Girl Next Door",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Sidney.webp"
+            },
+            {
+              "id": "billy_scream",
+              "name": "Billy Loomis",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Wildcard",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Billy.jpg"
+            },
+            {
+              "id": "stu_scream",
+              "name": "Stu Macher",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Charmer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Stu.jpg"
+            },
+            {
+              "id": "gale_scream",
+              "name": "Gale Weathers",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Journalist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Gale.png"
+            },
+            {
+              "id": "dewey_scream",
+              "name": "Dewey Riley",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Underdog",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Dewey.webp"
+            },
+            {
+              "id": "randy_scream",
+              "name": "Randy Meeks",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Randy.jpg"
+            },
+            {
+              "id": "tatum_scream",
+              "name": "Tatum Riley",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Tatum.jpg"
+            },
+            {
+              "id": "mickey_scream",
+              "name": "Mickey Altieri",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Wildcard",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Mickey.png"
+            },
+            {
+              "id": "cotton_scream",
+              "name": "Cotton Weary",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Celebrity",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Cotton.jpg"
+            },
+            {
+              "id": "roman_scream",
+              "name": "Roman Bridger",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Wildcard",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Roman.png"
+            },
+            {
+              "id": "jill_scream",
+              "name": "Jill Roberts",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Girl Next Door",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Jill.jpg"
+            },
+            {
+              "id": "kirby_scream",
+              "name": "Kirby Reed",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Tech Guru",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Kirby.webp"
+            },
+            {
+              "id": "charlie_scream",
+              "name": "Charlie Walker",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Charlie.jpg"
+            },
+            {
+              "id": "sam_scream",
+              "name": "Sam Carpenter",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Leader",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Sam.webp"
+            },
+            {
+              "id": "tara_scream",
+              "name": "Tara Carpenter",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Underdog",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Tara.webp"
+            },
+            {
+              "id": "chad_scream",
+              "name": "Chad Meeks-Martin",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Chad.webp"
+            },
+            {
+              "id": "mindy_scream",
+              "name": "Mindy Meeks-Martin",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Nerd",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Mindy.webp"
+            },
+            {
+              "id": "amber_scream",
+              "name": "Amber Freeman",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Amber.jpg"
+            },
+            {
+              "id": "richie_scream",
+              "name": "Richie Kirsch",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Charmer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Richie.jpg"
+            }
+          ]
+        }
+      }
+    },
+    "UntilDawn": {
+      "name": "Until Dawn",
+      "categories": {
+        "Until Dawn": {
+          "name": "Until Dawn",
+          "cast": [
+            {
+              "id": "sam_untildawn",
+              "name": "Sam Giddings",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Hero",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Sam.png"
+            },
+            {
+              "id": "mike_untildawn",
+              "name": "Mike Munroe",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Physical Threat",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Mike.png"
+            },
+            {
+              "id": "josh_untildawn",
+              "name": "Josh Washington",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Dramatic",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Josh.png"
+            },
+            {
+              "id": "emily_untildawn",
+              "name": "Emily Davis",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Manipulator",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Emily.png"
+            },
+            {
+              "id": "jessica_untildawn",
+              "name": "Jessica Riley",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Flirt",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Jessica.png"
+            },
+            {
+              "id": "ashley_untildawn",
+              "name": "Ashley Brown",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Pick Me",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Ashley.png"
+            },
+            {
+              "id": "chris_untildawn",
+              "name": "Chris Hartley",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Jester",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Chris.png"
+            },
+            {
+              "id": "matt_untildawn",
+              "name": "Matt Taylor",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Matt.png"
+            },
+            {
+              "id": "hannah_untildawn",
+              "name": "Hannah Washington",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Ingenue",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Hannah.jpg"
+            },
+            {
+              "id": "beth_untildawn",
+              "name": "Beth Washington",
+              "franchise": "Until Dawn",
+              "category": "Until Dawn",
+              "archetype": "The Loyal Ally",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/untildawn/Beth.png"
+            }
+          ]
+        }
+      }
+    },
+    "FridayThe13thGame": {
+      "name": "Friday the 13th: The Game",
+      "categories": {
+        "F13Game": {
+          "name": "F13: The Game",
+          "cast": [
+            {
+              "id": "adam_friday13th",
+              "name": "Adam Palomino",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Den Father",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Adam.jpg"
+            },
+            {
+              "id": "aj_friday13th",
+              "name": "A.J. Mason",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Lone Wolf",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/AJ.jpg"
+            },
+            {
+              "id": "buggzy_friday13th",
+              "name": "Brandon \"Buggzy\" Wilson",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Physical Threat",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Buggzy.jpg"
+            },
+            {
+              "id": "chad_friday13th",
+              "name": "Chad Kensington",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Conman",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Chad.jpg"
+            },
+            {
+              "id": "deborah_friday13th",
+              "name": "Deborah Kim",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Nerd",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Deborah.jpg"
+            },
+            {
+              "id": "eric_friday13th",
+              "name": "Eric Lachappa",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Awkward",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Eric.jpg"
+            },
+            {
+              "id": "jenny_friday13th",
+              "name": "Jenny Myers",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Girl Next Door",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Jenny.jpg"
+            },
+            {
+              "id": "kenny_friday13th",
+              "name": "Kenny Riedell",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Kenny.jpg"
+            },
+            {
+              "id": "tiffany_friday13th",
+              "name": "Tiffany Cox",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Flirt",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Tiffany.jpg"
+            },
+            {
+              "id": "vanessa_friday13th",
+              "name": "Vanessa Jones",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Challenge Beast",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Vanessa.jpg"
+            },
+            {
+              "id": "mitch_friday13th",
+              "name": "Mitch Floyd",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Veteran",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Mitch.jpg"
+            },
+            {
+              "id": "fox_friday13th",
+              "name": "Fox",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Rebel",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Fox.jpg"
+            },
+            {
+              "id": "shelly_friday13th",
+              "name": "Sheldon \"Shelly\" Finkelstein",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Jester",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Shelly.jpg"
+            },
+            {
+              "id": "victoria_friday13th",
+              "name": "Victoria Sterling",
+              "franchise": "Friday the 13th: The Game",
+              "category": "F13: The Game",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/friday13th/Victoria.jpg"
+            }
+          ]
+        }
+      }
+    },
+    "TexasChainsawGame": {
+      "name": "Texas Chainsaw Massacre: The Game",
+      "categories": {
+        "TCMGame": {
+          "name": "TCM: The Game",
+          "cast": [
+            {
+              "id": "ana_tcm",
+              "name": "Ana Flores",
+              "franchise": "Texas Chainsaw Massacre: The Game",
+              "category": "TCM: The Game",
+              "archetype": "The Leader",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/texaschainsaw/Ana.jpg"
+            },
+            {
+              "id": "sonny_tcm",
+              "name": "Sonny Williams",
+              "franchise": "Texas Chainsaw Massacre: The Game",
+              "category": "TCM: The Game",
+              "archetype": "The Strategist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/texaschainsaw/Sonny.jpg"
+            },
+            {
+              "id": "julie_tcm",
+              "name": "Julie Crawford",
+              "franchise": "Texas Chainsaw Massacre: The Game",
+              "category": "TCM: The Game",
+              "archetype": "The Challenge Beast",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/texaschainsaw/Julie.jpg"
+            },
+            {
+              "id": "leland_tcm",
+              "name": "Leland McKinney",
+              "franchise": "Texas Chainsaw Massacre: The Game",
+              "category": "TCM: The Game",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/texaschainsaw/Leland.jpg"
+            },
+            {
+              "id": "connie_tcm",
+              "name": "Connie Taylor",
+              "franchise": "Texas Chainsaw Massacre: The Game",
+              "category": "TCM: The Game",
+              "archetype": "The Tech Guru",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/texaschainsaw/Connie.jpg"
+            }
+          ]
+        }
+      }
+    },
+    "ScreamTV": {
+      "name": "Scream: The TV Series",
+      "categories": {
+        "ScreamMTV": {
+          "name": "Scream: MTV",
+          "cast": [
+            {
+              "id": "emma_screamtv",
+              "name": "Emma Duval",
+              "franchise": "Scream: The TV Series",
+              "category": "Scream: MTV",
+              "archetype": "The Girl Next Door",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/screamtv/Emma.jpg"
+            },
+            {
+              "id": "audrey_screamtv",
+              "name": "Audrey Jensen",
+              "franchise": "Scream: The TV Series",
+              "category": "Scream: MTV",
+              "archetype": "The Rebel",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/screamtv/Audrey.jpg"
+            },
+            {
+              "id": "noah_screamtv",
+              "name": "Noah Foster",
+              "franchise": "Scream: The TV Series",
+              "category": "Scream: MTV",
+              "archetype": "The Witty Confessionalist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/screamtv/Noah.jpg"
+            },
+            {
+              "id": "kieran_screamtv",
+              "name": "Kieran Wilcox",
+              "franchise": "Scream: The TV Series",
+              "category": "Scream: MTV",
+              "archetype": "The Charmer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/screamtv/Kieran.jpg"
+            },
+            {
+              "id": "will_screamtv",
+              "name": "Will Belmont",
+              "franchise": "Scream: The TV Series",
+              "category": "Scream: MTV",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/screamtv/Will.jpg"
+            },
+            {
+              "id": "brooke_screamtv",
+              "name": "Brooke Maddox",
+              "franchise": "Scream: The TV Series",
+              "category": "Scream: MTV",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/screamtv/Brooke.jpg"
+            },
+            {
+              "id": "maggie_screamtv",
+              "name": "Maggie Duval",
+              "franchise": "Scream: The TV Series",
+              "category": "Scream: MTV",
+              "archetype": "The Den Mother",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/screamtv/Maggie.jpg"
+            }
+          ]
+        }
+      }
+    },
+    "SilentHill": {
+      "name": "Silent Hill",
+      "categories": {
+        "Protagonists": {
+          "name": "Protagonists",
+          "cast": [
+            {
+              "id": "harry_silenthill",
+              "name": "Harry Mason",
+              "franchise": "Silent Hill",
+              "category": "Protagonists",
+              "archetype": "The Den Father",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/silenthill/Harry.jpg"
+            },
+            {
+              "id": "james_silenthill",
+              "name": "James Sunderland",
+              "franchise": "Silent Hill",
+              "category": "Protagonists",
+              "archetype": "The Dramatic",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/silenthill/James.jpg"
+            },
+            {
+              "id": "heather_silenthill",
+              "name": "Heather Mason",
+              "franchise": "Silent Hill",
+              "category": "Protagonists",
+              "archetype": "The Hero",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/silenthill/Heather.jpg"
+            },
+            {
+              "id": "henry_silenthill",
+              "name": "Henry Townshend",
+              "franchise": "Silent Hill",
+              "category": "Protagonists",
+              "archetype": "The Under-the-Radar",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/silenthill/Henry.jpg"
+            },
+            {
+              "id": "travis_silenthill",
+              "name": "Travis Grady",
+              "franchise": "Silent Hill",
+              "category": "Protagonists",
+              "archetype": "The Lone Wolf",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/silenthill/Travis.jpg"
+            },
+            {
+              "id": "alex_silenthill",
+              "name": "Alex Shepherd",
+              "franchise": "Silent Hill",
+              "category": "Protagonists",
+              "archetype": "The Veteran",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/silenthill/Alex.jpg"
+            }
+          ]
+        }
+      }
+    },
+    "TotalDrama": {
+      "name": "Total Drama Island",
+      "categories": {
+        "Season 1": {
+          "name": "Season 1",
+          "cast": [
+            {
+              "id": "beth_tdi",
+              "name": "Beth",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Awkward",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Beth.png"
+            },
+            {
+              "id": "bridgette_tdi",
+              "name": "Bridgette",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Social Butterfly",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Bridgette.png"
+            },
+            {
+              "id": "cody_tdi",
+              "name": "Cody",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Flirt",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Cody.png"
+            },
+            {
+              "id": "courtney_tdi",
+              "name": "Courtney",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Politician",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Courtney.png"
+            },
+            {
+              "id": "dj_tdi",
+              "name": "DJ",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Trustworthy",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/DJ.png"
+            },
+            {
+              "id": "duncan_tdi",
+              "name": "Duncan",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Rebel",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Duncan.png"
+            },
+            {
+              "id": "eva_tdi",
+              "name": "Eva",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Physical Threat",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Eva.png"
+            },
+            {
+              "id": "ezekiel_tdi",
+              "name": "Ezekiel",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Goat",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Ezekiel.png"
+            },
+            {
+              "id": "geoff_tdi",
+              "name": "Geoff",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Charmer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Geoff.png"
+            },
+            {
+              "id": "gwen_tdi",
+              "name": "Gwen",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Loner",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Gwen.png"
+            },
+            {
+              "id": "harold_tdi",
+              "name": "Harold",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Harold.png"
+            },
+            {
+              "id": "heather_tdi",
+              "name": "Heather",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Manipulator",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Heather.png"
+            },
+            {
+              "id": "izzy_tdi",
+              "name": "Izzy",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Wildcard",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Izzy.png"
+            },
+            {
+              "id": "justin_tdi",
+              "name": "Justin",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Beauty Queen",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Justin.png"
+            },
+            {
+              "id": "katie_tdi",
+              "name": "Katie",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Follower",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Katie.png"
+            },
+            {
+              "id": "leshawna_tdi",
+              "name": "Leshawna",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Firecracker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Leshawna.png"
+            },
+            {
+              "id": "lindsay_tdi",
+              "name": "Lindsay",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Ingenue",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Lindsay.png"
+            },
+            {
+              "id": "noah_tdi",
+              "name": "Noah",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Witty Confessionalist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Noah.png"
+            },
+            {
+              "id": "owen_tdi",
+              "name": "Owen",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Lovable Oaf",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Owen.png"
+            },
+            {
+              "id": "sadie_tdi",
+              "name": "Sadie",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Loyal Ally",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Sadie.png"
+            },
+            {
+              "id": "trent_tdi",
+              "name": "Trent",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Trent.png"
+            },
+            {
+              "id": "tyler_tdi",
+              "name": "Tyler",
+              "franchise": "Total Drama Island",
+              "category": "Season 1",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Tyler.png"
+            }
+          ]
+        }
+      }
+    },
+    "AHS": {
+      "name": "American Horror Story",
+      "categories": {
+        "AHS": {
+          "name": "AHS",
+          "cast": [
+            {
+              "id": "vivien_ahs",
+              "name": "Vivien Harmon",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Den Mother",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Vivien.jpg"
+            },
+            {
+              "id": "tate_ahs",
+              "name": "Tate Langdon",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Wildcard",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Tate.jpg"
+            },
+            {
+              "id": "violet_ahs",
+              "name": "Violet Harmon",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Loner",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Violet.jpg"
+            },
+            {
+              "id": "lana_ahs",
+              "name": "Lana Winters",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Journalist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Lana.jpg"
+            },
+            {
+              "id": "kit_ahs",
+              "name": "Kit Walker",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Underdog",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Kit.jpg"
+            },
+            {
+              "id": "madison_ahs",
+              "name": "Madison Montgomery",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Madison.jpg"
+            },
+            {
+              "id": "cordelia_ahs",
+              "name": "Cordelia Goode",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Clairvoyant",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Cordelia.jpg"
+            },
+            {
+              "id": "ally_ahs",
+              "name": "Ally Mayfair-Richards",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Paranoid",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Ally.jpg"
+            },
+            {
+              "id": "kai_ahs",
+              "name": "Kai Anderson",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Manipulator",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Kai.jpg"
+            },
+            {
+              "id": "brooke_ahs",
+              "name": "Brooke Thompson",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Ingenue",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Brooke.jpg"
+            },
+            {
+              "id": "montana_ahs",
+              "name": "Montana Duke",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Flirt",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Montana.jpg"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
