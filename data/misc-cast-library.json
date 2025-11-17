@@ -1072,6 +1072,26 @@
               "gender": "M",
               "age": 18,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Richie.jpg"
+            },
+            {
+              "id": "casey_becker_scream",
+              "name": "Casey Becker",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Girl Next Door",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Casey_Becker.png"
+            },
+            {
+              "id": "jennifer_jolie_scream",
+              "name": "Jennifer Jolie",
+              "franchise": "Scream",
+              "category": "Scream",
+              "archetype": "The Celebrity",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/scream/Jennifer_Jolie.jpg"
             }
           ]
         }
