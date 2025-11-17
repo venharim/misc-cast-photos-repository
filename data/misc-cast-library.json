@@ -2296,6 +2296,2336 @@
           ]
         }
       }
+    },
+    "Pokemon": {
+      "name": "Pokemon",
+      "categories": {
+        "Pokemon": {
+          "name": "Pokemon",
+          "cast": [
+            {
+              "id": "aaron_pokemon",
+              "name": "Aaron",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Activist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Aaron.png"
+            },
+            {
+              "id": "aarune_pokemon",
+              "name": "Aarune",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Analyst",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Aarune.png"
+            },
+            {
+              "id": "acerola_pokemon",
+              "name": "Acerola",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Alumni",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Acerola.png"
+            },
+            {
+              "id": "agatha_pokemon",
+              "name": "Agatha",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Attention Seeker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Agatha.png"
+            },
+            {
+              "id": "alder_pokemon",
+              "name": "Alder",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Attorney",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Alder.png"
+            },
+            {
+              "id": "aliana_pokemon",
+              "name": "Aliana",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Awkward",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Aliana.png"
+            },
+            {
+              "id": "allister_pokemon",
+              "name": "Allister",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Backstabber",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Allister.png"
+            },
+            {
+              "id": "anabel_pokemon",
+              "name": "Anabel",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Anabel.png"
+            },
+            {
+              "id": "archer_pokemon",
+              "name": "Archer",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Beauty Queen",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Archer.png"
+            },
+            {
+              "id": "archie_pokemon",
+              "name": "Archie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Black Widow",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Archie.png"
+            },
+            {
+              "id": "argenta_pokemon",
+              "name": "Argenta",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Bully",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Argenta.png"
+            },
+            {
+              "id": "ariana_pokemon",
+              "name": "Ariana",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Businessman",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Ariana.png"
+            },
+            {
+              "id": "avery_pokemon",
+              "name": "Avery",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Camp Counselor",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Avery.png"
+            },
+            {
+              "id": "barry_pokemon",
+              "name": "Barry",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Celebrity",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Barry.png"
+            },
+            {
+              "id": "bea_pokemon",
+              "name": "Bea",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Chad",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Bea.png"
+            },
+            {
+              "id": "bede_pokemon",
+              "name": "Bede",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Challenge Beast",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Bede.png"
+            },
+            {
+              "id": "benga_pokemon",
+              "name": "Benga",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Charmer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Benga.png"
+            },
+            {
+              "id": "bertha_pokemon",
+              "name": "Bertha",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Chosen Threat",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Bertha.png"
+            },
+            {
+              "id": "bianca_pokemon",
+              "name": "Bianca",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Clairvoyant",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Bianca.png"
+            },
+            {
+              "id": "birch_pokemon",
+              "name": "Birch",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Conman",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Birch.png"
+            },
+            {
+              "id": "blaine_pokemon",
+              "name": "Blaine",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Conservative",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Blaine.png"
+            },
+            {
+              "id": "blue_pokemon",
+              "name": "Blue",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Conwoman",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Blue.png"
+            },
+            {
+              "id": "brandon_pokemon",
+              "name": "Brandon",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Cop",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Brandon.png"
+            },
+            {
+              "id": "brawly_pokemon",
+              "name": "Brawly",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Crybaby",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Brawly.png"
+            },
+            {
+              "id": "brendan_pokemon",
+              "name": "Brendan",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Cynicist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Brendan.png"
+            },
+            {
+              "id": "brock_pokemon",
+              "name": "Brock",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Dark Horse",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Brock.png"
+            },
+            {
+              "id": "bruno_pokemon",
+              "name": "Bruno",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Delusional",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Bruno.png"
+            },
+            {
+              "id": "brycen_pokemon",
+              "name": "Brycen",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Den Father",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Brycen.png"
+            },
+            {
+              "id": "bryony_pokemon",
+              "name": "Bryony",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Den Mother",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Bryony.png"
+            },
+            {
+              "id": "buck_pokemon",
+              "name": "Buck",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Devotee",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Buck.png"
+            },
+            {
+              "id": "bugsy_pokemon",
+              "name": "Bugsy",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Dictador",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Bugsy.png"
+            },
+            {
+              "id": "burgh_pokemon",
+              "name": "Burgh",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Dog Blogger",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Burgh.png"
+            },
+            {
+              "id": "burnet_pokemon",
+              "name": "Burnet",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Dramatic",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Burnet.png"
+            },
+            {
+              "id": "byron_pokemon",
+              "name": "Byron",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Empath",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Byron.png"
+            },
+            {
+              "id": "caitlin_pokemon",
+              "name": "Caitlin",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Fan",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Caitlin.png"
+            },
+            {
+              "id": "calem_pokemon",
+              "name": "Calem",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Farmboy",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Calem.png"
+            },
+            {
+              "id": "candice_pokemon",
+              "name": "Candice",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Firecracker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Candice.png"
+            },
+            {
+              "id": "celosia_pokemon",
+              "name": "Celosia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Flirt",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Celosia.png"
+            },
+            {
+              "id": "charon_pokemon",
+              "name": "Charon",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Flower Child",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Charon.png"
+            },
+            {
+              "id": "cheren_pokemon",
+              "name": "Cheren",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Follower",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Cheren.png"
+            },
+            {
+              "id": "cheryl_pokemon",
+              "name": "Cheryl",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Free Agent",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Cheryl.png"
+            },
+            {
+              "id": "chili_pokemon",
+              "name": "Chili",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Gamer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Chili.png"
+            },
+            {
+              "id": "chuck_pokemon",
+              "name": "Chuck",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Ghost Devotee",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Chuck.png"
+            },
+            {
+              "id": "cilan_pokemon",
+              "name": "Cilan",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Girl Next Door",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Cilan.png"
+            },
+            {
+              "id": "clair_pokemon",
+              "name": "Clair",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Girls Girl",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Clair.png"
+            },
+            {
+              "id": "clay_pokemon",
+              "name": "Clay",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Goat",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Clay.png"
+            },
+            {
+              "id": "clemont_pokemon",
+              "name": "Clemont",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Golden Boy",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Clemont.png"
+            },
+            {
+              "id": "colress_pokemon",
+              "name": "Colress",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Healer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Colress.png"
+            },
+            {
+              "id": "courtney_pokemon",
+              "name": "Courtney",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Heir",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Courtney.png"
+            },
+            {
+              "id": "crasher_wake_pokemon",
+              "name": "Crasher Wake",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Heiress",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Crasher_Wake.png"
+            },
+            {
+              "id": "cress_pokemon",
+              "name": "Cress",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Hero",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Cress.png"
+            },
+            {
+              "id": "curtis_pokemon",
+              "name": "Curtis",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Idol",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Curtis.png"
+            },
+            {
+              "id": "cynthia_pokemon",
+              "name": "Cynthia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Ingenue",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Cynthia.png"
+            },
+            {
+              "id": "cyrus_pokemon",
+              "name": "Cyrus",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Iron Matron",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Cyrus.png"
+            },
+            {
+              "id": "dahlia_pokemon",
+              "name": "Dahlia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Jester",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Dahlia.png"
+            },
+            {
+              "id": "dana_pokemon",
+              "name": "Dana",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Jock",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Dana.png"
+            },
+            {
+              "id": "darach_pokemon",
+              "name": "Darach",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Journalist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Darach.png"
+            },
+            {
+              "id": "dawn_pokemon",
+              "name": "Dawn",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Leader",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Dawn.png"
+            },
+            {
+              "id": "dexio_pokemon",
+              "name": "Dexio",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Liberal",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Dexio.png"
+            },
+            {
+              "id": "diantha_pokemon",
+              "name": "Diantha",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Logician",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Diantha.png"
+            },
+            {
+              "id": "drake_pokemon",
+              "name": "Drake",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Lone Wolf",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Drake.png"
+            },
+            {
+              "id": "drasna_pokemon",
+              "name": "Drasna",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Loverboy",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Drasna.png"
+            },
+            {
+              "id": "drayden_pokemon",
+              "name": "Drayden",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Loyal Ally",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Drayden.png"
+            },
+            {
+              "id": "dulse_pokemon",
+              "name": "Dulse",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Manipulator",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Dulse.png"
+            },
+            {
+              "id": "elesa_pokemon",
+              "name": "Elesa",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Mean Girl",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Elesa.png"
+            },
+            {
+              "id": "elio_pokemon",
+              "name": "Elio",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Neat Freak",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Elio.png"
+            },
+            {
+              "id": "elm_pokemon",
+              "name": "Elm",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Elm.png"
+            },
+            {
+              "id": "emmet_pokemon",
+              "name": "Emmet",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Neurotic",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Emmet.png"
+            },
+            {
+              "id": "erika_pokemon",
+              "name": "Erika",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The ORGer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Erika.png"
+            },
+            {
+              "id": "ethan_pokemon",
+              "name": "Ethan",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Overplayer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Ethan.png"
+            },
+            {
+              "id": "eusine_pokemon",
+              "name": "Eusine",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Paranoid",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Eusine.png"
+            },
+            {
+              "id": "evelyn_pokemon",
+              "name": "Evelyn",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Pariah",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Evelyn.png"
+            },
+            {
+              "id": "faba_pokemon",
+              "name": "Faba",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Parasite",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Faba.png"
+            },
+            {
+              "id": "falkner_pokemon",
+              "name": "Falkner",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Philosopher",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Falkner.png"
+            },
+            {
+              "id": "fantina_pokemon",
+              "name": "Fantina",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Physical Threat",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Fantina.png"
+            },
+            {
+              "id": "fennel_pokemon",
+              "name": "Fennel",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Pick Me",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Fennel.png"
+            },
+            {
+              "id": "flannery_pokemon",
+              "name": "Flannery",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Podcaster",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Flannery.png"
+            },
+            {
+              "id": "flint_pokemon",
+              "name": "Flint",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Politician",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Flint.png"
+            },
+            {
+              "id": "gardenia_pokemon",
+              "name": "Gardenia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Pot Stirrer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Gardenia.png"
+            },
+            {
+              "id": "ghetsis_pokemon",
+              "name": "Ghetsis",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Preacher",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Ghetsis.png"
+            },
+            {
+              "id": "giovanni_pokemon",
+              "name": "Giovanni",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Primadonna",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Giovanni.png"
+            },
+            {
+              "id": "glacia_pokemon",
+              "name": "Glacia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Producer's Pet",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Glacia.png"
+            },
+            {
+              "id": "gladion_pokemon",
+              "name": "Gladion",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Rebel",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Gladion.png"
+            },
+            {
+              "id": "gloria_pokemon",
+              "name": "Gloria",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Recruit",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Gloria.png"
+            },
+            {
+              "id": "gordie_pokemon",
+              "name": "Gordie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Ritualist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Gordie.png"
+            },
+            {
+              "id": "grant_pokemon",
+              "name": "Grant",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Rookie",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Grant.png"
+            },
+            {
+              "id": "greta_pokemon",
+              "name": "Greta",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Sanctimonious One",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Greta.png"
+            },
+            {
+              "id": "grimsley_pokemon",
+              "name": "Grimsley",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Schemer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Grimsley.png"
+            },
+            {
+              "id": "guzma_pokemon",
+              "name": "Guzma",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Scientist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Guzma.png"
+            },
+            {
+              "id": "hala_pokemon",
+              "name": "Hala",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Showmance Queen",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Hala.png"
+            },
+            {
+              "id": "hapu_pokemon",
+              "name": "Hapu",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Social Butterfly",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Hapu.png"
+            },
+            {
+              "id": "hau_pokemon",
+              "name": "Hau",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Southern Belle",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Hau.png"
+            },
+            {
+              "id": "hilbert_pokemon",
+              "name": "Hilbert",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Spinmaster",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Hilbert.png"
+            },
+            {
+              "id": "hilda_pokemon",
+              "name": "Hilda",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Hilda.png"
+            },
+            {
+              "id": "honey_pokemon",
+              "name": "Honey",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Stan",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Honey.png"
+            },
+            {
+              "id": "hop_pokemon",
+              "name": "Hop",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Strategist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Hop.png"
+            },
+            {
+              "id": "hugh_pokemon",
+              "name": "Hugh",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The TV Host",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Hugh.png"
+            },
+            {
+              "id": "ilima_pokemon",
+              "name": "Ilima",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Tech Guru",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Ilima.png"
+            },
+            {
+              "id": "ingo_pokemon",
+              "name": "Ingo",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Toxic Partner",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Ingo.png"
+            },
+            {
+              "id": "iris_pokemon",
+              "name": "Iris",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Trustworthy",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Iris.png"
+            },
+            {
+              "id": "james_pokemon",
+              "name": "James",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Underdog",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/James.png"
+            },
+            {
+              "id": "janine_pokemon",
+              "name": "Janine",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Under-the-Radar",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Janine.png"
+            },
+            {
+              "id": "jasmine_pokemon",
+              "name": "Jasmine",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Untapped Potential",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Jasmine.png"
+            },
+            {
+              "id": "jessie_pokemon",
+              "name": "Jessie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Veteran",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Jessie.png"
+            },
+            {
+              "id": "juan_pokemon",
+              "name": "Juan",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Wanderer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Juan.png"
+            },
+            {
+              "id": "juniper_pokemon",
+              "name": "Juniper",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Wannabe Influencer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Juniper.png"
+            },
+            {
+              "id": "jupiter_pokemon",
+              "name": "Jupiter",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Wannabe Villain",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Jupiter.png"
+            },
+            {
+              "id": "kabu_pokemon",
+              "name": "Kabu",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Wildcard",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Kabu.png"
+            },
+            {
+              "id": "kahili_pokemon",
+              "name": "Kahili",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Witty Confessionalist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Kahili.png"
+            },
+            {
+              "id": "karen_pokemon",
+              "name": "Karen",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Activist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Karen.png"
+            },
+            {
+              "id": "kiawe_pokemon",
+              "name": "Kiawe",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Analyst",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Kiawe.png"
+            },
+            {
+              "id": "klara_pokemon",
+              "name": "Klara",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Alumni",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Klara.png"
+            },
+            {
+              "id": "koga_pokemon",
+              "name": "Koga",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Attention Seeker",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Koga.png"
+            },
+            {
+              "id": "korrina_pokemon",
+              "name": "Korrina",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Attorney",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Korrina.png"
+            },
+            {
+              "id": "kris_pokemon",
+              "name": "Kris",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Awkward",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Kris.png"
+            },
+            {
+              "id": "kukui_pokemon",
+              "name": "Kukui",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Backstabber",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Kukui.png"
+            },
+            {
+              "id": "lana_pokemon",
+              "name": "Lana",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lana.png"
+            },
+            {
+              "id": "lance_pokemon",
+              "name": "Lance",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Beauty Queen",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lance.png"
+            },
+            {
+              "id": "leaf_pokemon",
+              "name": "Leaf",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Black Widow",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Leaf.png"
+            },
+            {
+              "id": "lenora_pokemon",
+              "name": "Lenora",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Bully",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lenora.png"
+            },
+            {
+              "id": "leon_pokemon",
+              "name": "Leon",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Businessman",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Leon.png"
+            },
+            {
+              "id": "lillie_pokemon",
+              "name": "Lillie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Camp Counselor",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lillie.png"
+            },
+            {
+              "id": "lisia_pokemon",
+              "name": "Lisia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Celebrity",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lisia.png"
+            },
+            {
+              "id": "liza_pokemon",
+              "name": "Liza",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Chad",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Liza.png"
+            },
+            {
+              "id": "looker_pokemon",
+              "name": "Looker",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Challenge Beast",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Looker.png"
+            },
+            {
+              "id": "lorelei_pokemon",
+              "name": "Lorelei",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Charmer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lorelei.png"
+            },
+            {
+              "id": "lt._surge_pokemon",
+              "name": "Lt. Surge",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Chosen Threat",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lt._Surge.png"
+            },
+            {
+              "id": "lucas_pokemon",
+              "name": "Lucas",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Clairvoyant",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lucas.png"
+            },
+            {
+              "id": "lucian_pokemon",
+              "name": "Lucian",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Conman",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lucian.png"
+            },
+            {
+              "id": "lucy_pokemon",
+              "name": "Lucy",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Conservative",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lucy.png"
+            },
+            {
+              "id": "lusamine_pokemon",
+              "name": "Lusamine",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Conwoman",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lusamine.png"
+            },
+            {
+              "id": "lyra_pokemon",
+              "name": "Lyra",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Cop",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lyra.png"
+            },
+            {
+              "id": "lysandre_pokemon",
+              "name": "Lysandre",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Crybaby",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Lysandre.png"
+            },
+            {
+              "id": "mable_pokemon",
+              "name": "Mable",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Cynicist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Mable.png"
+            },
+            {
+              "id": "magnolia_pokemon",
+              "name": "Magnolia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Dark Horse",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Magnolia.png"
+            },
+            {
+              "id": "mallow_pokemon",
+              "name": "Mallow",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Delusional",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Mallow.png"
+            },
+            {
+              "id": "malva_pokemon",
+              "name": "Malva",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Den Father",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Malva.png"
+            },
+            {
+              "id": "marley_pokemon",
+              "name": "Marley",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Den Mother",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Marley.png"
+            },
+            {
+              "id": "marlon_pokemon",
+              "name": "Marlon",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Devotee",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Marlon.png"
+            },
+            {
+              "id": "marnie_pokemon",
+              "name": "Marnie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Dictador",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Marnie.png"
+            },
+            {
+              "id": "mars_pokemon",
+              "name": "Mars",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Dog Blogger",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Mars.png"
+            },
+            {
+              "id": "marshal_pokemon",
+              "name": "Marshal",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Dramatic",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Marshal.png"
+            },
+            {
+              "id": "matt_pokemon",
+              "name": "Matt",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Empath",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Matt.png"
+            },
+            {
+              "id": "maxie_pokemon",
+              "name": "Maxie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Fan",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Maxie.png"
+            },
+            {
+              "id": "may_pokemon",
+              "name": "May",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Farmboy",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/May.png"
+            },
+            {
+              "id": "maylene_pokemon",
+              "name": "Maylene",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Firecracker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Maylene.png"
+            },
+            {
+              "id": "melony_pokemon",
+              "name": "Melony",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Flirt",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Melony.png"
+            },
+            {
+              "id": "milo_pokemon",
+              "name": "Milo",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Flower Child",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Milo.png"
+            },
+            {
+              "id": "mina_pokemon",
+              "name": "Mina",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Follower",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Mina.png"
+            },
+            {
+              "id": "mira_pokemon",
+              "name": "Mira",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Free Agent",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Mira.png"
+            },
+            {
+              "id": "miror_b._pokemon",
+              "name": "Miror B.",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Gamer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Miror_B..png"
+            },
+            {
+              "id": "misty_pokemon",
+              "name": "Misty",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Ghost Devotee",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Misty.png"
+            },
+            {
+              "id": "mohn_pokemon",
+              "name": "Mohn",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Girl Next Door",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Mohn.png"
+            },
+            {
+              "id": "molayne_pokemon",
+              "name": "Molayne",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Girls Girl",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Molayne.png"
+            },
+            {
+              "id": "moon_pokemon",
+              "name": "Moon",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Goat",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Moon.png"
+            },
+            {
+              "id": "morgan_pokemon",
+              "name": "Morgan",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Golden Boy",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Morgan.png"
+            },
+            {
+              "id": "morty_pokemon",
+              "name": "Morty",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Healer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Morty.png"
+            },
+            {
+              "id": "mustard_pokemon",
+              "name": "Mustard",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Heir",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Mustard.png"
+            },
+            {
+              "id": "n_pokemon",
+              "name": "N",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Heiress",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/N.png"
+            },
+            {
+              "id": "nanu_pokemon",
+              "name": "Nanu",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Hero",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Nanu.png"
+            },
+            {
+              "id": "nate_pokemon",
+              "name": "Nate",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Idol",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Nate.png"
+            },
+            {
+              "id": "nessa_pokemon",
+              "name": "Nessa",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Ingenue",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Nessa.png"
+            },
+            {
+              "id": "nita_pokemon",
+              "name": "Nita",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Iron Matron",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Nita.png"
+            },
+            {
+              "id": "noland_pokemon",
+              "name": "Noland",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Jester",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Noland.png"
+            },
+            {
+              "id": "norman_pokemon",
+              "name": "Norman",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Norman.png"
+            },
+            {
+              "id": "oak_pokemon",
+              "name": "Oak",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Journalist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Oak.png"
+            },
+            {
+              "id": "oleana_pokemon",
+              "name": "Oleana",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Leader",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Oleana.png"
+            },
+            {
+              "id": "olivia_pokemon",
+              "name": "Olivia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Liberal",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Olivia.png"
+            },
+            {
+              "id": "olympia_pokemon",
+              "name": "Olympia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Logician",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Olympia.png"
+            },
+            {
+              "id": "opal_pokemon",
+              "name": "Opal",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Lone Wolf",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Opal.png"
+            },
+            {
+              "id": "palmer_pokemon",
+              "name": "Palmer",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Loverboy",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Palmer.png"
+            },
+            {
+              "id": "petrel_pokemon",
+              "name": "Petrel",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Loyal Ally",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Petrel.png"
+            },
+            {
+              "id": "phoebe_pokemon",
+              "name": "Phoebe",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Manipulator",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Phoebe.png"
+            },
+            {
+              "id": "phyco_pokemon",
+              "name": "Phyco",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Mean Girl",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Phyco.png"
+            },
+            {
+              "id": "piers_pokemon",
+              "name": "Piers",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Neat Freak",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Piers.png"
+            },
+            {
+              "id": "plumeria_pokemon",
+              "name": "Plumeria",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Nerd",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Plumeria.png"
+            },
+            {
+              "id": "proton_pokemon",
+              "name": "Proton",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Neurotic",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Proton.png"
+            },
+            {
+              "id": "pryce_pokemon",
+              "name": "Pryce",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The ORGer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Pryce.png"
+            },
+            {
+              "id": "raihan_pokemon",
+              "name": "Raihan",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Overplayer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Raihan.png"
+            },
+            {
+              "id": "ramos_pokemon",
+              "name": "Ramos",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Paranoid",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Ramos.png"
+            },
+            {
+              "id": "ray_pokemon",
+              "name": "Ray",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Pariah",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Ray.png"
+            },
+            {
+              "id": "red_pokemon",
+              "name": "Red",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Parasite",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Red.png"
+            },
+            {
+              "id": "riley_pokemon",
+              "name": "Riley",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Philosopher",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Riley.png"
+            },
+            {
+              "id": "roark_pokemon",
+              "name": "Roark",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Physical Threat",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Roark.png"
+            },
+            {
+              "id": "rosa_pokemon",
+              "name": "Rosa",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Pick Me",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Rosa.png"
+            },
+            {
+              "id": "rose_pokemon",
+              "name": "Rose",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Podcaster",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Rose.png"
+            },
+            {
+              "id": "rowan_pokemon",
+              "name": "Rowan",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Politician",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Rowan.png"
+            },
+            {
+              "id": "roxanne_pokemon",
+              "name": "Roxanne",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Pot Stirrer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Roxanne.png"
+            },
+            {
+              "id": "roxie_pokemon",
+              "name": "Roxie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Preacher",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Roxie.png"
+            },
+            {
+              "id": "ryuki_pokemon",
+              "name": "Ryuki",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Primadonna",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Ryuki.png"
+            },
+            {
+              "id": "sabrina_pokemon",
+              "name": "Sabrina",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Producer's Pet",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Sabrina.png"
+            },
+            {
+              "id": "saturn_pokemon",
+              "name": "Saturn",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Rebel",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Saturn.png"
+            },
+            {
+              "id": "selene_pokemon",
+              "name": "Selene",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Recruit",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Selene.png"
+            },
+            {
+              "id": "serena_pokemon",
+              "name": "Serena",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Ritualist",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Serena.png"
+            },
+            {
+              "id": "shauna_pokemon",
+              "name": "Shauna",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Rookie",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Shauna.png"
+            },
+            {
+              "id": "shauntal_pokemon",
+              "name": "Shauntal",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Sanctimonious One",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Shauntal.png"
+            },
+            {
+              "id": "shelly_pokemon",
+              "name": "Shelly",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Schemer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Shelly.png"
+            },
+            {
+              "id": "sidney_pokemon",
+              "name": "Sidney",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Scientist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Sidney.png"
+            },
+            {
+              "id": "siebold_pokemon",
+              "name": "Siebold",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Showmance Queen",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Siebold.png"
+            },
+            {
+              "id": "silver_pokemon",
+              "name": "Silver",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Social Butterfly",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Silver.png"
+            },
+            {
+              "id": "sina_pokemon",
+              "name": "Sina",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Southern Belle",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Sina.png"
+            },
+            {
+              "id": "skyla_pokemon",
+              "name": "Skyla",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Spinmaster",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Skyla.png"
+            },
+            {
+              "id": "soliera_pokemon",
+              "name": "Soliera",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Stalker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Soliera.png"
+            },
+            {
+              "id": "sonia_pokemon",
+              "name": "Sonia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Stan",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Sonia.png"
+            },
+            {
+              "id": "sophocles_pokemon",
+              "name": "Sophocles",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Strategist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Sophocles.png"
+            },
+            {
+              "id": "spenser_pokemon",
+              "name": "Spenser",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The TV Host",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Spenser.png"
+            },
+            {
+              "id": "steven_pokemon",
+              "name": "Steven",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Tech Guru",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Steven.png"
+            },
+            {
+              "id": "sycamore_pokemon",
+              "name": "Sycamore",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Toxic Partner",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Sycamore.png"
+            },
+            {
+              "id": "tabitha_pokemon",
+              "name": "Tabitha",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Trustworthy",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Tabitha.png"
+            },
+            {
+              "id": "tate_pokemon",
+              "name": "Tate",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Underdog",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Tate.png"
+            },
+            {
+              "id": "thorton_pokemon",
+              "name": "Thorton",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Under-the-Radar",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Thorton.png"
+            },
+            {
+              "id": "tierno_pokemon",
+              "name": "Tierno",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Untapped Potential",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Tierno.png"
+            },
+            {
+              "id": "trevor_pokemon",
+              "name": "Trevor",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Veteran",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Trevor.png"
+            },
+            {
+              "id": "tucker_pokemon",
+              "name": "Tucker",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Wanderer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Tucker.png"
+            },
+            {
+              "id": "valerie_pokemon",
+              "name": "Valerie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Wannabe Influencer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Valerie.png"
+            },
+            {
+              "id": "victor_pokemon",
+              "name": "Victor",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Wannabe Villain",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Victor.png"
+            },
+            {
+              "id": "viola_pokemon",
+              "name": "Viola",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Wildcard",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Viola.png"
+            },
+            {
+              "id": "volkner_pokemon",
+              "name": "Volkner",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Witty Confessionalist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Volkner.png"
+            },
+            {
+              "id": "wallace_pokemon",
+              "name": "Wallace",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Activist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Wallace.png"
+            },
+            {
+              "id": "wally_pokemon",
+              "name": "Wally",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Analyst",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Wally.png"
+            },
+            {
+              "id": "wattson_pokemon",
+              "name": "Wattson",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Alumni",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Wattson.png"
+            },
+            {
+              "id": "whitney_pokemon",
+              "name": "Whitney",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Attention Seeker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Whitney.png"
+            },
+            {
+              "id": "wicke_pokemon",
+              "name": "Wicke",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Attorney",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Wicke.png"
+            },
+            {
+              "id": "wikstrom_pokemon",
+              "name": "Wikstrom",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Awkward",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Wikstrom.png"
+            },
+            {
+              "id": "will_pokemon",
+              "name": "Will",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Backstabber",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Will.png"
+            },
+            {
+              "id": "winona_pokemon",
+              "name": "Winona",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Winona.png"
+            },
+            {
+              "id": "wulfric_pokemon",
+              "name": "Wulfric",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Beauty Queen",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Wulfric.png"
+            },
+            {
+              "id": "xerosic_pokemon",
+              "name": "Xerosic",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Black Widow",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Xerosic.png"
+            },
+            {
+              "id": "yancy_pokemon",
+              "name": "Yancy",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Bully",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Yancy.png"
+            },
+            {
+              "id": "zinnia_pokemon",
+              "name": "Zinnia",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Businessman",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Zinnia.png"
+            },
+            {
+              "id": "zinzolin_pokemon",
+              "name": "Zinzolin",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Camp Counselor",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Zinzolin.png"
+            },
+            {
+              "id": "zossie_pokemon",
+              "name": "Zossie",
+              "franchise": "Pokemon",
+              "category": "Pokemon",
+              "archetype": "The Celebrity",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pokemon/Zossie.png"
+            }
+          ]
+        }
+      }
     }
   }
 }
