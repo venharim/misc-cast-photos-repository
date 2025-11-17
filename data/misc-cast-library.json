@@ -4626,6 +4626,56 @@
           ]
         }
       }
+    },
+    "X": {
+      "name": "X (2022)",
+      "categories": {
+        "X": {
+          "name": "X",
+          "cast": [
+            {
+              "id": "maxine_x",
+              "name": "Maxine Minx",
+              "franchise": "X (2022)",
+              "category": "X",
+              "archetype": "The Wannabe Influencer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/x/Maxine.jpg"
+            },
+            {
+              "id": "lorraine_x",
+              "name": "Lorraine Day",
+              "franchise": "X (2022)",
+              "category": "X",
+              "archetype": "The Ingenue",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/x/Lorraine.jpg"
+            }
+          ]
+        }
+      }
+    },
+    "Pearl": {
+      "name": "Pearl (2022)",
+      "categories": {
+        "Pearl": {
+          "name": "Pearl",
+          "cast": [
+            {
+              "id": "pearl_pearl",
+              "name": "Pearl",
+              "franchise": "Pearl (2022)",
+              "category": "Pearl",
+              "archetype": "The Delusional",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/pearl/Pearl.jpg"
+            }
+          ]
+        }
+      }
     }
   }
 }
