@@ -2192,6 +2192,86 @@
               "gender": "F",
               "age": 18,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Montana.jpg"
+            },
+            {
+              "id": "constance_ahs",
+              "name": "Constance Langdon",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Manipulator",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Constance.jpg"
+            },
+            {
+              "id": "sister_mary_eunice_ahs",
+              "name": "Sister Mary Eunice",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Paranoid",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Sister_Mary_Eunice.jpg"
+            },
+            {
+              "id": "sister_jude_ahs",
+              "name": "Sister Jude",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Iron Matron",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Sister_Jude.jpg"
+            },
+            {
+              "id": "myrtle_snow_ahs",
+              "name": "Myrtle Snow",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Dramatic",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Myrtle_Snow.jpg"
+            },
+            {
+              "id": "misty_day_ahs",
+              "name": "Misty Day",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Flower Child",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Misty_Day.jpg"
+            },
+            {
+              "id": "queenie_ahs",
+              "name": "Queenie",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Firecracker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Queenie.jpg"
+            },
+            {
+              "id": "marie_laveau_ahs",
+              "name": "Marie Laveau",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Black Widow",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/Marie_Laveau.png"
+            },
+            {
+              "id": "the_countess_ahs",
+              "name": "The Countess",
+              "franchise": "American Horror Story",
+              "category": "AHS",
+              "archetype": "The Primadonna",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/ahs/The_Countess.jpg"
             }
           ]
         }
