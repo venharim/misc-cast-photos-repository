@@ -1772,6 +1772,306 @@
               "gender": "M",
               "age": 18,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Tyler.png"
+            },
+            {
+              "id": "alejandro_td",
+              "name": "Alejandro",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Social Shark",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Alejandro.png"
+            },
+            {
+              "id": "amy_td",
+              "name": "Amy",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Mean Girl",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Amy.png"
+            },
+            {
+              "id": "annemaria_td",
+              "name": "Anne Maria",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Diva",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Anne_Maria.png"
+            },
+            {
+              "id": "beardo_td",
+              "name": "Beardo",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Goofball",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Beardo.png"
+            },
+            {
+              "id": "beverly_td",
+              "name": "Beverly (B)",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Silent",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Beverly.png"
+            },
+            {
+              "id": "blaineley_td",
+              "name": "Blaineley",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Celebrity",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Blaineley.png"
+            },
+            {
+              "id": "brick_td",
+              "name": "Brick",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Military",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Brick.png"
+            },
+            {
+              "id": "cameron_td",
+              "name": "Cameron",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Brainiac",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Cameron.png"
+            },
+            {
+              "id": "dakota_td",
+              "name": "Dakota",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Princess",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Dakota.png"
+            },
+            {
+              "id": "dave_td",
+              "name": "Dave",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Paranoid",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Dave.png"
+            },
+            {
+              "id": "dawn_td",
+              "name": "Dawn",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Mystic",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Dawn.png"
+            },
+            {
+              "id": "ella_td",
+              "name": "Ella",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Romantic",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Ella.png"
+            },
+            {
+              "id": "jasmine_td",
+              "name": "Jasmine",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Amazon",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Jasmine.png"
+            },
+            {
+              "id": "jo_td",
+              "name": "Jo",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Athlete",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Jo.png"
+            },
+            {
+              "id": "leonard_td",
+              "name": "Leonard",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Delusional",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Leonard.png"
+            },
+            {
+              "id": "lightning_td",
+              "name": "Lightning",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Competitor",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Lightning.png"
+            },
+            {
+              "id": "max_td",
+              "name": "Max",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Villain",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Max.png"
+            },
+            {
+              "id": "mike_td",
+              "name": "Mike",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Actor",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Mike.png"
+            },
+            {
+              "id": "rodney_td",
+              "name": "Rodney",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Hopeless Romantic",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Rodney.png"
+            },
+            {
+              "id": "sam_td",
+              "name": "Sam",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Gamer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Sam.png"
+            },
+            {
+              "id": "samey_td",
+              "name": "Samey",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Nice Twin",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Samey.png"
+            },
+            {
+              "id": "scarlett_td",
+              "name": "Scarlett",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Evil Genius",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Scarlett.png"
+            },
+            {
+              "id": "scott_td",
+              "name": "Scott",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Schemer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Scott.png"
+            },
+            {
+              "id": "shawn_td",
+              "name": "Shawn",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Survivalist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Shawn.png"
+            },
+            {
+              "id": "sierra_td",
+              "name": "Sierra",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Superfan",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Sierra.png"
+            },
+            {
+              "id": "sky_td",
+              "name": "Sky",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Winner",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Sky.png"
+            },
+            {
+              "id": "staci_td",
+              "name": "Staci",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Storyteller",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Staci.png"
+            },
+            {
+              "id": "sugar_td",
+              "name": "Sugar",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Country Girl",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Sugar.png"
+            },
+            {
+              "id": "topher_td",
+              "name": "Topher",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Host Wannabe",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Topher.png"
+            },
+            {
+              "id": "zoey_td",
+              "name": "Zoey",
+              "franchise": "Total Drama Island",
+              "category": "Total Drama",
+              "archetype": "The Sweetheart",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/totaldrama/Zoey.png"
             }
           ]
         }
