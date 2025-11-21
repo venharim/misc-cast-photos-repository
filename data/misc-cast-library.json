@@ -4690,8 +4690,8 @@
     "Survivor": {
       "name": "Survivor",
       "categories": {
-        "Cagayan": {
-          "name": "Cagayan",
+        "Survivor": {
+          "name": "Survivor",
           "cast": [
             {
               "id": "tony_cagayan",
@@ -4872,12 +4872,7 @@
               "gender": "M",
               "age": 18,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_david_t.webp"
-            }
-          ]
-        },
-        "David vs. Goliath": {
-          "name": "David vs. Goliath",
-          "cast": [
+            },
             {
               "id": "nick_dvg",
               "name": "Nick Wilson",
