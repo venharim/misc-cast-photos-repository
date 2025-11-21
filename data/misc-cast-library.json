@@ -4686,6 +4686,401 @@
           ]
         }
       }
+    },
+    "Survivor": {
+      "name": "Survivor",
+      "categories": {
+        "Cagayan": {
+          "name": "Cagayan",
+          "cast": [
+            {
+              "id": "tony_cagayan",
+              "name": "Tony Vlachos",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Strategist",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_tony_t.webp"
+            },
+            {
+              "id": "woo_cagayan",
+              "name": "Woo Hwang",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Loyal Ally",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_woo_t.webp"
+            },
+            {
+              "id": "kass_cagayan",
+              "name": "Kass McQuillen",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Wildcard",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_kass_t.webp"
+            },
+            {
+              "id": "spencer_cagayan",
+              "name": "Spencer Bledsoe",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_spencer_t.webp"
+            },
+            {
+              "id": "trish_cagayan",
+              "name": "Trish Hegarty",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Den Mother",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_trish_t.webp"
+            },
+            {
+              "id": "tasha_cagayan",
+              "name": "Tasha Fox",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Challenge Beast",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_tasha_t.webp"
+            },
+            {
+              "id": "jefra_cagayan",
+              "name": "Jefra Bland",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_jefra_t.webp"
+            },
+            {
+              "id": "jeremiah_cagayan",
+              "name": "Jeremiah Wood",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_jeremiah_t.webp"
+            },
+            {
+              "id": "lj_cagayan",
+              "name": "LJ McKanas",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Heir",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_lj_t.webp"
+            },
+            {
+              "id": "morgan_cagayan",
+              "name": "Morgan McLeod",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_morgan_t.webp"
+            },
+            {
+              "id": "sarah_cagayan",
+              "name": "Sarah Lacina",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Cop",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_sarah_t.webp"
+            },
+            {
+              "id": "alexis_cagayan",
+              "name": "Alexis Maxwell",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Ingenue",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_alexis_t.webp"
+            },
+            {
+              "id": "lindsey_cagayan",
+              "name": "Lindsey Ogle",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Firecracker",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_lindsey_t.webp"
+            },
+            {
+              "id": "cliff_cagayan",
+              "name": "Cliff Robinson",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Physical Threat",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_cliff_t.webp"
+            },
+            {
+              "id": "jtia_cagayan",
+              "name": "J'Tia Taylor",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Dramatic",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_jtia_t.webp"
+            },
+            {
+              "id": "brice_cagayan",
+              "name": "Brice Johnston",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Social Butterfly",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_brice_t.webp"
+            },
+            {
+              "id": "garrett_cagayan",
+              "name": "Garrett Adelstein",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Gamer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_garrett_t.webp"
+            },
+            {
+              "id": "david_cagayan",
+              "name": "David Samson",
+              "franchise": "Survivor",
+              "category": "Cagayan",
+              "archetype": "The Businessman",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S28_david_t.webp"
+            }
+          ]
+        },
+        "David vs. Goliath": {
+          "name": "David vs. Goliath",
+          "cast": [
+            {
+              "id": "nick_dvg",
+              "name": "Nick Wilson",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Dark Horse",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_nick_t.png"
+            },
+            {
+              "id": "mike_dvg",
+              "name": "Mike White",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Celebrity",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_mike_t.webp"
+            },
+            {
+              "id": "angelina_dvg",
+              "name": "Angelina Keeley",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Overplayer",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_angelina_t.webp"
+            },
+            {
+              "id": "kara_dvg",
+              "name": "Kara Kay",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Beauty Queen",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_kara_t.png"
+            },
+            {
+              "id": "alison_dvg",
+              "name": "Alison Raybould",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Analyst",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_alison_t.png"
+            },
+            {
+              "id": "davie_dvg",
+              "name": "Davie Rickenbacker",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Schemer",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_davie_t.webp"
+            },
+            {
+              "id": "christian_dvg",
+              "name": "Christian Hubicki",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_christian_t.webp"
+            },
+            {
+              "id": "gabby_dvg",
+              "name": "Gabby Pascuzzi",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Backstabber",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_gabby_t.png"
+            },
+            {
+              "id": "carl_dvg",
+              "name": "Carl Boudreaux",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Underdog",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_carl_t.png"
+            },
+            {
+              "id": "alec_dvg",
+              "name": "Alec Merlino",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Rebel",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_alec_t.png"
+            },
+            {
+              "id": "dan_dvg",
+              "name": "Dan Rengering",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Cop",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_dan_t.png"
+            },
+            {
+              "id": "john_dvg",
+              "name": "John Hennigan",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_john_t.png"
+            },
+            {
+              "id": "elizabeth_dvg",
+              "name": "Elizabeth Olson",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Girl Next Door",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_elizabeth_t.png"
+            },
+            {
+              "id": "lyrsa_dvg",
+              "name": "Lyrsa Torres",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Pariah",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_lyrsa_t.png"
+            },
+            {
+              "id": "natalie_dvg",
+              "name": "Natalie Cole",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Iron Matron",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_natalie_t.png"
+            },
+            {
+              "id": "natalia_dvg",
+              "name": "Natalia Azoqa",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Paranoid",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_natalia_t.png"
+            },
+            {
+              "id": "jeremy_dvg",
+              "name": "Jeremy Crawford",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Attorney",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_jeremy_t.png"
+            },
+            {
+              "id": "jessica_dvg",
+              "name": "Jessica Peet",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Goat",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_jessica_t.png"
+            },
+            {
+              "id": "bi_dvg",
+              "name": "Bi Nguyen",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Physical Threat",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_bi_t.png"
+            },
+            {
+              "id": "pat_dvg",
+              "name": "Pat Cusack",
+              "franchise": "Survivor",
+              "category": "David vs. Goliath",
+              "archetype": "The Den Father",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/S37_pat_t.png"
+            }
+          ]
+        }
+      }
     }
   }
 }
