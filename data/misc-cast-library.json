@@ -5076,6 +5076,346 @@
           ]
         }
       }
+    },
+    "Euphoria": {
+      "name": "Euphoria",
+      "categories": {
+        "MainCast": {
+          "name": "Main Cast",
+          "cast": [
+            {
+              "id": "rue_euphoria",
+              "name": "Rue Bennett",
+              "franchise": "Euphoria",
+              "category": "Main Cast",
+              "archetype": "The Neurotic",
+              "gender": "F",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Rue.jpg"
+            },
+            {
+              "id": "jules_euphoria",
+              "name": "Jules Vaughn",
+              "franchise": "Euphoria",
+              "category": "Main Cast",
+              "archetype": "The Free Agent",
+              "gender": "F",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Jules.png"
+            },
+            {
+              "id": "maddy_euphoria",
+              "name": "Maddy Perez",
+              "franchise": "Euphoria",
+              "category": "Main Cast",
+              "archetype": "The Primadonna",
+              "gender": "F",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Maddy.jpg"
+            },
+            {
+              "id": "cassie_euphoria",
+              "name": "Cassie Howard",
+              "franchise": "Euphoria",
+              "category": "Main Cast",
+              "archetype": "The Pick Me",
+              "gender": "F",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Cassie.jpg"
+            },
+            {
+              "id": "nate_euphoria",
+              "name": "Nate Jacobs",
+              "franchise": "Euphoria",
+              "category": "Main Cast",
+              "archetype": "The Bully",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Nate.jpg"
+            },
+            {
+              "id": "fezco_euphoria",
+              "name": "Fezco",
+              "franchise": "Euphoria",
+              "category": "Main Cast",
+              "archetype": "The Rebel",
+              "gender": "M",
+              "age": 20,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Fezco.jpg"
+            },
+            {
+              "id": "kat_euphoria",
+              "name": "Kat Hernandez",
+              "franchise": "Euphoria",
+              "category": "Main Cast",
+              "archetype": "The Gamer",
+              "gender": "F",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Kat.jpg"
+            },
+            {
+              "id": "lexi_euphoria",
+              "name": "Lexi Howard",
+              "franchise": "Euphoria",
+              "category": "Main Cast",
+              "archetype": "The Under-the-Radar",
+              "gender": "F",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Lexi.jpg"
+            }
+          ]
+        },
+        "SupportingCast": {
+          "name": "Supporting Cast",
+          "cast": [
+            {
+              "id": "ethan_euphoria",
+              "name": "Ethan Lewis",
+              "franchise": "Euphoria",
+              "category": "Supporting Cast",
+              "archetype": "The Awkward",
+              "gender": "M",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Ethan.jpg"
+            },
+            {
+              "id": "gia_euphoria",
+              "name": "Gia Bennett",
+              "franchise": "Euphoria",
+              "category": "Supporting Cast",
+              "archetype": "The Loyal Ally",
+              "gender": "F",
+              "age": 14,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Gia.jpg"
+            },
+            {
+              "id": "elliot_euphoria",
+              "name": "Elliot",
+              "franchise": "Euphoria",
+              "category": "Supporting Cast",
+              "archetype": "The Backstabber",
+              "gender": "M",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Elliott.webp"
+            },
+            {
+              "id": "mckay_euphoria",
+              "name": "Chris McKay",
+              "franchise": "Euphoria",
+              "category": "Supporting Cast",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 19,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Chris.webp"
+            },
+            {
+              "id": "aaron_euphoria",
+              "name": "Aaron",
+              "franchise": "Euphoria",
+              "category": "Supporting Cast",
+              "archetype": "The Follower",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/Euphoria_Aaron.webp"
+            }
+          ]
+        }
+      }
+    },
+    "PrettyLittleLiars": {
+      "name": "Pretty Little Liars",
+      "categories": {
+        "TheLiars": {
+          "name": "The Liars",
+          "cast": [
+            {
+              "id": "spencer_pll",
+              "name": "Spencer Hastings",
+              "franchise": "Pretty Little Liars",
+              "category": "The Liars",
+              "archetype": "The Strategist",
+              "gender": "F",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Spencer.png"
+            },
+            {
+              "id": "aria_pll",
+              "name": "Aria Montgomery",
+              "franchise": "Pretty Little Liars",
+              "category": "The Liars",
+              "archetype": "The Ingenue",
+              "gender": "F",
+              "age": 16,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Aria.jpg"
+            },
+            {
+              "id": "hanna_pll",
+              "name": "Hanna Marin",
+              "franchise": "Pretty Little Liars",
+              "category": "The Liars",
+              "archetype": "The Social Butterfly",
+              "gender": "F",
+              "age": 16,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Hanna.jpg"
+            },
+            {
+              "id": "emily_pll",
+              "name": "Emily Fields",
+              "franchise": "Pretty Little Liars",
+              "category": "The Liars",
+              "archetype": "The Loyal Ally",
+              "gender": "F",
+              "age": 16,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Emily.jpg"
+            },
+            {
+              "id": "alison_pll",
+              "name": "Alison DiLaurentis",
+              "franchise": "Pretty Little Liars",
+              "category": "The Liars",
+              "archetype": "The Manipulator",
+              "gender": "F",
+              "age": 15,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Alison.jpg"
+            }
+          ]
+        },
+        "LoveInterests": {
+          "name": "Love Interests",
+          "cast": [
+            {
+              "id": "toby_pll",
+              "name": "Toby Cavanaugh",
+              "franchise": "Pretty Little Liars",
+              "category": "Love Interests",
+              "archetype": "The Dark Horse",
+              "gender": "M",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Toby.webp"
+            },
+            {
+              "id": "caleb_pll",
+              "name": "Caleb Rivers",
+              "franchise": "Pretty Little Liars",
+              "category": "Love Interests",
+              "archetype": "The Tech Guru",
+              "gender": "M",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Caleb.jpg"
+            },
+            {
+              "id": "ezra_pll",
+              "name": "Ezra Fitz",
+              "franchise": "Pretty Little Liars",
+              "category": "Love Interests",
+              "archetype": "The Philosopher",
+              "gender": "M",
+              "age": 23,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Ezra.jpg"
+            },
+            {
+              "id": "maya_pll",
+              "name": "Maya St. Germain",
+              "franchise": "Pretty Little Liars",
+              "category": "Love Interests",
+              "archetype": "The Rebel",
+              "gender": "F",
+              "age": 16,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Maya.jpg"
+            },
+            {
+              "id": "paige_pll",
+              "name": "Paige McCullers",
+              "franchise": "Pretty Little Liars",
+              "category": "Love Interests",
+              "archetype": "The Challenge Beast",
+              "gender": "F",
+              "age": 16,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Paige.avif"
+            }
+          ]
+        },
+        "Antagonists": {
+          "name": "Antagonists",
+          "cast": [
+            {
+              "id": "mona_pll",
+              "name": "Mona Vanderwaal",
+              "franchise": "Pretty Little Liars",
+              "category": "Antagonists",
+              "archetype": "The Schemer",
+              "gender": "F",
+              "age": 16,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Mona.webp"
+            },
+            {
+              "id": "jenna_pll",
+              "name": "Jenna Marshall",
+              "franchise": "Pretty Little Liars",
+              "category": "Antagonists",
+              "archetype": "The Black Widow",
+              "gender": "F",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Jenna.webp"
+            },
+            {
+              "id": "cece_pll",
+              "name": "CeCe Drake",
+              "franchise": "Pretty Little Liars",
+              "category": "Antagonists",
+              "archetype": "The Black Widow",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Cece.jpg"
+            },
+            {
+              "id": "noel_pll",
+              "name": "Noel Kahn",
+              "franchise": "Pretty Little Liars",
+              "category": "Antagonists",
+              "archetype": "The Chad",
+              "gender": "M",
+              "age": 17,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Noel.jpg"
+            },
+            {
+              "id": "wren_pll",
+              "name": "Wren Kingston",
+              "franchise": "Pretty Little Liars",
+              "category": "Antagonists",
+              "archetype": "The Charmer",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Wren.webp"
+            }
+          ]
+        },
+        "SupportingCast": {
+          "name": "Supporting Cast",
+          "cast": [
+            {
+              "id": "jason_pll",
+              "name": "Jason DiLaurentis",
+              "franchise": "Pretty Little Liars",
+              "category": "Supporting Cast",
+              "archetype": "The Dark Horse",
+              "gender": "M",
+              "age": 22,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Jason.png"
+            },
+            {
+              "id": "mike_pll",
+              "name": "Mike Montgomery",
+              "franchise": "Pretty Little Liars",
+              "category": "Supporting Cast",
+              "archetype": "The Neurotic",
+              "gender": "M",
+              "age": 15,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/PLL_Mike.gif"
+            }
+          ]
+        }
+      }
     }
   }
 }
