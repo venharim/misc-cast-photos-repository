@@ -5880,6 +5880,619 @@
     "Survivor": {
       "name": "Survivor",
       "categories": {
+        "Nicaragua": {
+          "name": "Nicaragua",
+          "cast": [
+            {
+              "id": "wendy_s21",
+              "name": "Wendy",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_wendy_t.webp"
+            },
+            {
+              "id": "shannon_s21",
+              "name": "Shannon",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_shannon_t.webp"
+            },
+            {
+              "id": "jimmyj_s21",
+              "name": "Jimmy J.",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_jimmyj_t.webp"
+            },
+            {
+              "id": "jimmyt_s21",
+              "name": "Jimmy T.",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_jimmyt_t.webp"
+            },
+            {
+              "id": "tyrone_s21",
+              "name": "Tyrone",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_tyrone_t.webp"
+            },
+            {
+              "id": "kellyb_s21",
+              "name": "Kelly B.",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_kellyb_t.webp"
+            },
+            {
+              "id": "yve_s21",
+              "name": "Yve",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_yve_t.webp"
+            },
+            {
+              "id": "jill_s21",
+              "name": "Jill",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_jill_t.webp"
+            },
+            {
+              "id": "alina_s21",
+              "name": "Alina",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_alina_t.webp"
+            },
+            {
+              "id": "marty_s21",
+              "name": "Marty",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_marty_t.webp"
+            },
+            {
+              "id": "brenda_s21",
+              "name": "Brenda",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_brenda_t.webp"
+            },
+            {
+              "id": "naonka_s21",
+              "name": "NaOnka",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_naonka_t.webp"
+            },
+            {
+              "id": "kellys_s21",
+              "name": "Kelly S.",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_kellys_t.webp"
+            },
+            {
+              "id": "benry_s21",
+              "name": "Benry",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_benry_t.webp"
+            },
+            {
+              "id": "jane_s21",
+              "name": "Jane",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_jane_t.webp"
+            },
+            {
+              "id": "dan_s21",
+              "name": "Dan",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_dan_t.webp"
+            },
+            {
+              "id": "holly_s21",
+              "name": "Holly",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_holly_t.webp"
+            },
+            {
+              "id": "sash_s21",
+              "name": "Sash",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_sash_t.webp"
+            },
+            {
+              "id": "chase_s21",
+              "name": "Chase",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_chase_t.webp"
+            },
+            {
+              "id": "fabio_s21",
+              "name": "Fabio",
+              "franchise": "Survivor",
+              "category": "Nicaragua",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Nicaragua/S21_fabio_t.webp"
+            }
+          ]
+        },
+        "San Juan Del Sur": {
+          "name": "San Juan Del Sur",
+          "cast": [
+            {
+              "id": "nadiya_s29",
+              "name": "Nadiya",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "bloodline": "natalie_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_nadiya_t.webp"
+            },
+            {
+              "id": "val_s29",
+              "name": "Val",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "bloodline": "jeremy_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_val_t.webp"
+            },
+            {
+              "id": "john_s29",
+              "name": "John",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "julie_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_john_t.webp"
+            },
+            {
+              "id": "drew_s29",
+              "name": "Drew",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "alec_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_drew_t.webp"
+            },
+            {
+              "id": "kelley_s29",
+              "name": "Kelley",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "bloodline": "dale_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_kelley_t.webp"
+            },
+            {
+              "id": "dale_s29",
+              "name": "Dale",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "kelley_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_dale_t.webp"
+            },
+            {
+              "id": "josh_s29",
+              "name": "Josh",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "reed_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_josh_t.webp"
+            },
+            {
+              "id": "julie_s29",
+              "name": "Julie",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "bloodline": "john_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_julie_t.webp"
+            },
+            {
+              "id": "jeremy_s29",
+              "name": "Jeremy",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "val_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_jeremy_t.webp"
+            },
+            {
+              "id": "wes_s29",
+              "name": "Wes",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "keith_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_wes_t.webp"
+            },
+            {
+              "id": "reed_s29",
+              "name": "Reed",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "josh_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_reed_t.webp"
+            },
+            {
+              "id": "alec_s29",
+              "name": "Alec",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "drew_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_alec_t.webp"
+            },
+            {
+              "id": "jon_s29",
+              "name": "Jon",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "jaclyn_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_jon_t.webp"
+            },
+            {
+              "id": "baylor_s29",
+              "name": "Baylor",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "bloodline": "missy_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_baylor_t.webp"
+            },
+            {
+              "id": "keith_s29",
+              "name": "Keith",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "bloodline": "wes_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_keith_t.webp"
+            },
+            {
+              "id": "missy_s29",
+              "name": "Missy",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "bloodline": "baylor_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_missy_t.webp"
+            },
+            {
+              "id": "jaclyn_s29",
+              "name": "Jaclyn",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "bloodline": "jon_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_jaclyn_t.webp"
+            },
+            {
+              "id": "natalie_s29",
+              "name": "Natalie",
+              "franchise": "Survivor",
+              "category": "San Juan Del Sur",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "bloodline": "nadiya_s29",
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/San%20Juan%20Del%20Sur/S29_natalie_t.webp"
+            }
+          ]
+        },
+        "Game Changers": {
+          "name": "Game Changers",
+          "cast": [
+            {
+              "id": "ciera_s34",
+              "name": "Ciera",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_ciera_t.webp"
+            },
+            {
+              "id": "tony_s34",
+              "name": "Tony",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_tony_t.webp"
+            },
+            {
+              "id": "caleb_s34",
+              "name": "Caleb",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_caleb_t.webp"
+            },
+            {
+              "id": "malcolm_s34",
+              "name": "Malcolm",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_malcolm_t.webp"
+            },
+            {
+              "id": "jt_s34",
+              "name": "JT",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_jt_t.webp"
+            },
+            {
+              "id": "sandra_s34",
+              "name": "Sandra",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_sandra_t.webp"
+            },
+            {
+              "id": "jeff_s34",
+              "name": "Jeff",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_jeff_t.webp"
+            },
+            {
+              "id": "hali_s34",
+              "name": "Hali",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_hali_t.webp"
+            },
+            {
+              "id": "ozzy_s34",
+              "name": "Ozzy",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_ozzy_t.webp"
+            },
+            {
+              "id": "debbie_s34",
+              "name": "Debbie",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_debbie_t.webp"
+            },
+            {
+              "id": "zeke_s34",
+              "name": "Zeke",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_zeke_t.webp"
+            },
+            {
+              "id": "sierra_s34",
+              "name": "Sierra",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_sierra_t.webp"
+            },
+            {
+              "id": "andrea_s34",
+              "name": "Andrea",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_andrea_t.webp"
+            },
+            {
+              "id": "michaela_s34",
+              "name": "Michaela",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_michaela_t.webp"
+            },
+            {
+              "id": "cirie_s34",
+              "name": "Cirie",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_cirie_t.webp"
+            },
+            {
+              "id": "aubry_s34",
+              "name": "Aubry",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_aubry_t.webp"
+            },
+            {
+              "id": "tai_s34",
+              "name": "Tai",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_tai_t.webp"
+            },
+            {
+              "id": "troyzan_s34",
+              "name": "Troyzan",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_troyzan_t.webp"
+            },
+            {
+              "id": "brad_s34",
+              "name": "Brad",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_brad_t.webp"
+            },
+            {
+              "id": "sarah_s34",
+              "name": "Sarah",
+              "franchise": "Survivor",
+              "category": "Game Changers",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/survivor/Game%20Changers/S34_sarah_t.webp"
+            }
+          ]
+        },
         "Survivor 41": {
           "name": "Survivor 41",
           "cast": [
