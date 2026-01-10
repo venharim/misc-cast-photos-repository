@@ -16174,6 +16174,351 @@
           ]
         }
       }
+    },
+    "TheQuarry": {
+      "name": "The Quarry",
+      "categories": {
+        "Counselors": {
+          "name": "Counselors",
+          "cast": [
+            {
+              "id": "abigail_quarry",
+              "name": "Abigail",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Wallflower",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Abigail.webp"
+            },
+            {
+              "id": "chris_hackett_quarry",
+              "name": "Chris Hackett",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Leader",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Chris%20Hackett.jpg"
+            },
+            {
+              "id": "dylan_quarry",
+              "name": "Dylan",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Dylan.jpg"
+            },
+            {
+              "id": "emma_quarry",
+              "name": "Emma",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Flirt",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Emma.jpg"
+            },
+            {
+              "id": "jacob_quarry",
+              "name": "Jacob",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Jacob.jpg"
+            },
+            {
+              "id": "kaitlyn_quarry",
+              "name": "Kaitlyn",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Leader",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Kaitlyn.jpg"
+            },
+            {
+              "id": "laura_quarry",
+              "name": "Laura",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Mastermind",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Laura.jpg"
+            },
+            {
+              "id": "max_quarry",
+              "name": "Max",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Sweetheart",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Max.jpg"
+            },
+            {
+              "id": "nick_quarry",
+              "name": "Nick",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Nick.jpg"
+            },
+            {
+              "id": "ryan_quarry",
+              "name": "Ryan",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Loner",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Ryan.jpg"
+            },
+            {
+              "id": "travis_hackett_quarry",
+              "name": "Travis Hackett",
+              "franchise": "The Quarry",
+              "category": "Counselors",
+              "archetype": "The Wildcard",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/The-Quarry/Travis%20Hackett.jpg"
+            }
+          ]
+        }
+      }
+    },
+    "DarkPictures": {
+      "name": "Dark Pictures Anthology",
+      "categories": {
+        "HouseOfAshes": {
+          "name": "House of Ashes",
+          "cast": [
+            {
+              "id": "eric_hoa",
+              "name": "Eric",
+              "franchise": "Dark Pictures Anthology",
+              "category": "House of Ashes",
+              "archetype": "The Leader",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/House-of-Ashes/Eric.jpg"
+            },
+            {
+              "id": "jason_hoa",
+              "name": "Jason",
+              "franchise": "Dark Pictures Anthology",
+              "category": "House of Ashes",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/House-of-Ashes/Jason.webp"
+            },
+            {
+              "id": "nick_hoa",
+              "name": "Nick",
+              "franchise": "Dark Pictures Anthology",
+              "category": "House of Ashes",
+              "archetype": "The Sweetheart",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/House-of-Ashes/Nick.jpg"
+            },
+            {
+              "id": "rachel_hoa",
+              "name": "Rachel",
+              "franchise": "Dark Pictures Anthology",
+              "category": "House of Ashes",
+              "archetype": "The Mastermind",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/House-of-Ashes/Rachel.jpg"
+            },
+            {
+              "id": "salim_hoa",
+              "name": "Salim",
+              "franchise": "Dark Pictures Anthology",
+              "category": "House of Ashes",
+              "archetype": "The Underdog",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/House-of-Ashes/Salim.jpg"
+            }
+          ]
+        },
+        "LittleHope": {
+          "name": "Little Hope",
+          "cast": [
+            {
+              "id": "andrew_lh",
+              "name": "Andrew",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Little Hope",
+              "archetype": "The Loner",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Little-Hope/Andrew.jpg"
+            },
+            {
+              "id": "angela_lh",
+              "name": "Angela",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Little Hope",
+              "archetype": "The Villain",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Little-Hope/Angela.jpg"
+            },
+            {
+              "id": "daniel_lh",
+              "name": "Daniel",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Little Hope",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Little-Hope/Daniel.jpg"
+            },
+            {
+              "id": "john_lh",
+              "name": "John",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Little Hope",
+              "archetype": "The Leader",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Little-Hope/John.jpg"
+            },
+            {
+              "id": "taylor_lh",
+              "name": "Taylor",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Little Hope",
+              "archetype": "The Rebel",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Little-Hope/Taylor.jpg"
+            }
+          ]
+        },
+        "ManOfMedan": {
+          "name": "Man of Medan",
+          "cast": [
+            {
+              "id": "alex_mom",
+              "name": "Alex",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Man of Medan",
+              "archetype": "The Leader",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Man-of-Medan/Alex.webp"
+            },
+            {
+              "id": "brad_mom",
+              "name": "Brad",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Man of Medan",
+              "archetype": "The Nerd",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Man-of-Medan/Brad.jpg"
+            },
+            {
+              "id": "conrad_mom",
+              "name": "Conrad",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Man of Medan",
+              "archetype": "The Rebel",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Man-of-Medan/Conrad.webp"
+            },
+            {
+              "id": "fliss_mom",
+              "name": "Fliss",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Man of Medan",
+              "archetype": "The Mastermind",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Man-of-Medan/Fliss.webp"
+            },
+            {
+              "id": "julia_mom",
+              "name": "Julia",
+              "franchise": "Dark Pictures Anthology",
+              "category": "Man of Medan",
+              "archetype": "The Flirt",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/Man-of-Medan/Julia.webp"
+            }
+          ]
+        },
+        "TheDevilInMe": {
+          "name": "The Devil In Me",
+          "cast": [
+            {
+              "id": "charlie_dim",
+              "name": "Charlie",
+              "franchise": "Dark Pictures Anthology",
+              "category": "The Devil In Me",
+              "archetype": "The Leader",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/The-Devil-In-Me/Charlie.jpg"
+            },
+            {
+              "id": "erin_dim",
+              "name": "Erin",
+              "franchise": "Dark Pictures Anthology",
+              "category": "The Devil In Me",
+              "archetype": "The Nerd",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/The-Devil-In-Me/Erin.jpg"
+            },
+            {
+              "id": "jamie_dim",
+              "name": "Jamie",
+              "franchise": "Dark Pictures Anthology",
+              "category": "The Devil In Me",
+              "archetype": "The Sweetheart",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/The-Devil-In-Me/Jamie.jpg"
+            },
+            {
+              "id": "kate_dim",
+              "name": "Kate",
+              "franchise": "Dark Pictures Anthology",
+              "category": "The Devil In Me",
+              "archetype": "The Mastermind",
+              "gender": "F",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/The-Devil-In-Me/Kate.heic"
+            },
+            {
+              "id": "mark_dim",
+              "name": "Mark",
+              "franchise": "Dark Pictures Anthology",
+              "category": "The Devil In Me",
+              "archetype": "The Jock",
+              "gender": "M",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/The-Devil-In-Me/Mark.jpg"
+            }
+          ]
+        }
+      }
     }
   }
 }
