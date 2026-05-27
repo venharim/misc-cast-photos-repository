@@ -72042,8 +72042,8 @@
     "BigBrotherUK": {
       "name": "Big Brother UK",
       "categories": {
-        "BBUK1": {
-          "name": "Big Brother UK 1",
+        "BigBrotherUK": {
+          "name": "Big Brother UK",
           "cast": [
             {
               "id": "craig_bbuk1",
@@ -72154,12 +72154,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_sada.webp"
-            }
-          ]
-        },
-        "BBUK2": {
-          "name": "Big Brother UK 2",
-          "cast": [
+            },
             {
               "id": "brian_bbuk2",
               "name": "Brian",
@@ -72269,12 +72264,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_penny.webp"
-            }
-          ]
-        },
-        "BBUK3": {
-          "name": "Big Brother UK 3",
-          "cast": [
+            },
             {
               "id": "kate_bbuk3",
               "name": "Kate",
@@ -72414,12 +72404,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_sunita.webp"
-            }
-          ]
-        },
-        "BBUK4": {
-          "name": "Big Brother UK 4",
-          "cast": [
+            },
             {
               "id": "cameron_bbuk4",
               "name": "Cameron",
@@ -72549,12 +72534,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_anouska.webp"
-            }
-          ]
-        },
-        "BBUK5": {
-          "name": "Big Brother UK 5",
-          "cast": [
+            },
             {
               "id": "nadia_bbuk5",
               "name": "Nadia",
@@ -72684,12 +72664,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_kitten.webp"
-            }
-          ]
-        },
-        "BBUK6": {
-          "name": "Big Brother UK 6",
-          "cast": [
+            },
             {
               "id": "anthony_bbuk6",
               "name": "Anthony",
@@ -72849,12 +72824,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_mary.webp"
-            }
-          ]
-        },
-        "BBUK7": {
-          "name": "Big Brother UK 7",
-          "cast": [
+            },
             {
               "id": "pete_bbuk7",
               "name": "Pete",
@@ -73074,12 +73044,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_shahbaz.webp"
-            }
-          ]
-        },
-        "BBUK8": {
-          "name": "Big Brother UK 8",
-          "cast": [
+            },
             {
               "id": "brian_bbuk8",
               "name": "Brian",
@@ -73299,12 +73264,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_emily.webp"
-            }
-          ]
-        },
-        "BBUK9": {
-          "name": "Big Brother UK 9",
-          "cast": [
+            },
             {
               "id": "rachel_bbuk9",
               "name": "Rachel",
@@ -73504,12 +73464,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_stephanie.webp"
-            }
-          ]
-        },
-        "BBUK10": {
-          "name": "Big Brother UK 10",
-          "cast": [
+            },
             {
               "id": "sophie_bbuk10",
               "name": "Sophie",
@@ -73719,12 +73674,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_beinazir.webp"
-            }
-          ]
-        },
-        "BBUK11": {
-          "name": "Big Brother UK 11",
-          "cast": [
+            },
             {
               "id": "josie_bbuk11",
               "name": "Josie",
@@ -73924,12 +73874,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_rachael.webp"
-            }
-          ]
-        },
-        "BBUK12": {
-          "name": "Big Brother UK 12",
-          "cast": [
+            },
             {
               "id": "aaron_bbuk12",
               "name": "Aaron",
@@ -74079,12 +74024,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_tashie.webp"
-            }
-          ]
-        },
-        "BBUK13": {
-          "name": "Big Brother UK 13",
-          "cast": [
+            },
             {
               "id": "luke_a_bbuk13",
               "name": "Luke A",
@@ -74274,12 +74214,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_bhavesh.webp"
-            }
-          ]
-        },
-        "BBUK14": {
-          "name": "Big Brother UK 14",
-          "cast": [
+            },
             {
               "id": "sam_bbuk14",
               "name": "Sam",
@@ -74429,12 +74364,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_bbukmichael.webp"
-            }
-          ]
-        },
-        "BBUK15": {
-          "name": "Big Brother UK 15",
-          "cast": [
+            },
             {
               "id": "helen_bbuk15",
               "name": "Helen",
@@ -74614,12 +74544,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_pauline.webp"
-            }
-          ]
-        },
-        "BBUK16": {
-          "name": "Big Brother UK 16",
-          "cast": [
+            },
             {
               "id": "chloe_bbuk16",
               "name": "Chloe",
@@ -74829,12 +74754,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_nikki.webp"
-            }
-          ]
-        },
-        "BBUK17": {
-          "name": "Big Brother UK 17",
-          "cast": [
+            },
             {
               "id": "jason_bbuk17",
               "name": "Jason",
@@ -75024,12 +74944,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_victoria.webp"
-            }
-          ]
-        },
-        "BBUK18": {
-          "name": "Big Brother UK 18",
-          "cast": [
+            },
             {
               "id": "houseplan_bbuk18",
               "name": "Houseplan",
@@ -75259,12 +75174,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_mandy.webp"
-            }
-          ]
-        },
-        "BBUK19": {
-          "name": "Big Brother UK 19",
-          "cast": [
+            },
             {
               "id": "house_picture_1_bbuk19",
               "name": "House Picture 1",
@@ -75554,12 +75464,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_ellis.webp"
-            }
-          ]
-        },
-        "BBUK20": {
-          "name": "Big Brother UK 20",
-          "cast": [
+            },
             {
               "id": "jordan_bbuk20",
               "name": "Jordan",
@@ -75719,12 +75624,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_farida.webp"
-            }
-          ]
-        },
-        "BBUK21": {
-          "name": "Big Brother UK 21",
-          "cast": [
+            },
             {
               "id": "ali_bbuk21",
               "name": "Ali",
@@ -75884,12 +75784,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_ryan.webp"
-            }
-          ]
-        },
-        "BBUK22": {
-          "name": "Big Brother UK 22",
-          "cast": [
+            },
             {
               "id": "richard_bbuk22",
               "name": "Richard",
@@ -76067,8 +75962,8 @@
     "BigBrotherBrasil": {
       "name": "Big Brother Brasil",
       "categories": {
-        "BBB1": {
-          "name": "Big Brother Brasil 1",
+        "BigBrotherBrasil": {
+          "name": "Big Brother Brasil",
           "cast": [
             {
               "id": "kleber_bbb1",
@@ -76189,12 +76084,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB1_caetano.webp"
-            }
-          ]
-        },
-        "BBB2": {
-          "name": "Big Brother Brasil 2",
-          "cast": [
+            },
             {
               "id": "rodrigo_bbb2",
               "name": "Rodrigo",
@@ -76314,12 +76204,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB2_rita.webp"
-            }
-          ]
-        },
-        "BBB3": {
-          "name": "Big Brother Brasil 3",
-          "cast": [
+            },
             {
               "id": "dhomini_bbb3",
               "name": "Dhomini",
@@ -76469,12 +76354,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB3_samantha.webp"
-            }
-          ]
-        },
-        "BBB4": {
-          "name": "Big Brother Brasil 4",
-          "cast": [
+            },
             {
               "id": "cida_bbb4",
               "name": "Cida",
@@ -76634,12 +76514,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB4_marcos.webp"
-            }
-          ]
-        },
-        "BBB5": {
-          "name": "Big Brother Brasil 5",
-          "cast": [
+            },
             {
               "id": "jean_bbb5",
               "name": "Jean",
@@ -76789,12 +76664,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB5_juliana.webp"
-            }
-          ]
-        },
-        "BBB6": {
-          "name": "Big Brother Brasil 6",
-          "cast": [
+            },
             {
               "id": "mara_bbb6",
               "name": "Mara",
@@ -76934,12 +76804,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB6_juliana.webp"
-            }
-          ]
-        },
-        "BBB7": {
-          "name": "Big Brother Brasil 7",
-          "cast": [
+            },
             {
               "id": "diego_bbb7",
               "name": "Diego",
@@ -77099,12 +76964,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB7_juliana.webp"
-            }
-          ]
-        },
-        "BBB8": {
-          "name": "Big Brother Brasil 8",
-          "cast": [
+            },
             {
               "id": "rafinha_bbb8",
               "name": "Rafinha",
@@ -77244,12 +77104,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB8_jacqueline.webp"
-            }
-          ]
-        },
-        "BBB9": {
-          "name": "Big Brother Brasil 9",
-          "cast": [
+            },
             {
               "id": "maximiliano_bbb9",
               "name": "Maximiliano",
@@ -77449,12 +77304,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB9_mairab.webp"
-            }
-          ]
-        },
-        "BBB10": {
-          "name": "Big Brother Brasil 10",
-          "cast": [
+            },
             {
               "id": "marcelo_bbb10",
               "name": "Marcelo",
@@ -77624,12 +77474,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB10_joseane.webp"
-            }
-          ]
-        },
-        "BBB11": {
-          "name": "Big Brother Brasil 11",
-          "cast": [
+            },
             {
               "id": "maria_bbb11",
               "name": "Maria",
@@ -77819,12 +77664,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB11_ariadna.webp"
-            }
-          ]
-        },
-        "BBB12": {
-          "name": "Big Brother Brasil 12",
-          "cast": [
+            },
             {
               "id": "fael_bbb12",
               "name": "Fael",
@@ -77984,12 +77824,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB12_daniel.webp"
-            }
-          ]
-        },
-        "BBB13": {
-          "name": "Big Brother Brasil 13",
-          "cast": [
+            },
             {
               "id": "fernanda_bbb13",
               "name": "Fernanda",
@@ -78199,12 +78034,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB13_samara.webp"
-            }
-          ]
-        },
-        "BBB14": {
-          "name": "Big Brother Brasil 14",
-          "cast": [
+            },
             {
               "id": "vanessa_bbb14",
               "name": "Vanessa",
@@ -78404,12 +78234,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB14_joao.webp"
-            }
-          ]
-        },
-        "BBB15": {
-          "name": "Big Brother Brasil 15",
-          "cast": [
+            },
             {
               "id": "cezar_bbb15",
               "name": "Cezar",
@@ -78559,12 +78384,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB15_julia.webp"
-            }
-          ]
-        },
-        "BBB16": {
-          "name": "Big Brother Brasil 16",
-          "cast": [
+            },
             {
               "id": "munik_bbb16",
               "name": "Munik",
@@ -78708,12 +78528,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB16_william.webp"
-            }
-          ]
-        },
-        "BBB17": {
-          "name": "Big Brother Brasil 17",
-          "cast": [
+            },
             {
               "id": "diary_room_bbb17",
               "name": "Diary Room",
@@ -78893,12 +78708,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB17_mayla.webp"
-            }
-          ]
-        },
-        "BBB18": {
-          "name": "Big Brother Brasil 18",
-          "cast": [
+            },
             {
               "id": "gleici_bbb18",
               "name": "Gleici",
@@ -79108,12 +78918,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB18_aryton.webp"
-            }
-          ]
-        },
-        "BBB19": {
-          "name": "Big Brother Brasil 19",
-          "cast": [
+            },
             {
               "id": "mass_nomination_bbb19",
               "name": "Mass Nomination",
@@ -79293,12 +79098,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB19_vinicius.webp"
-            }
-          ]
-        },
-        "BBB20": {
-          "name": "Big Brother Brasil 20",
-          "cast": [
+            },
             {
               "id": "thelma_bbb20",
               "name": "Thelma",
@@ -79518,12 +79318,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB20_renata.webp"
-            }
-          ]
-        },
-        "BBB21": {
-          "name": "Big Brother Brasil 21",
-          "cast": [
+            },
             {
               "id": "juliette_bbb21",
               "name": "Juliette",
@@ -79723,12 +79518,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB21_kerline.webp"
-            }
-          ]
-        },
-        "BBB22": {
-          "name": "Big Brother Brasil 22",
-          "cast": [
+            },
             {
               "id": "arthur_bbb22",
               "name": "Arthur",
@@ -79948,12 +79738,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB22_luciano.webp"
-            }
-          ]
-        },
-        "BBB23": {
-          "name": "Big Brother Brasil 23",
-          "cast": [
+            },
             {
               "id": "amanda_bbb23",
               "name": "Amanda",
@@ -80193,12 +79978,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB23_manoel.webp"
-            }
-          ]
-        },
-        "BBB24": {
-          "name": "Big Brother Brasil 24",
-          "cast": [
+            },
             {
               "id": "davi_bbb24",
               "name": "Davi",
@@ -80508,12 +80288,7 @@
               "gender": "M",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB24_pl_nio.webp"
-            }
-          ]
-        },
-        "BBB25": {
-          "name": "Big Brother Brasil 25",
-          "cast": [
+            },
             {
               "id": "renata_bbb25",
               "name": "Renata",
@@ -80756,12 +80531,7 @@
               "gender": "F",
               "age": 25,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbb/BBB25_nicole_paula.webp"
-            }
-          ]
-        },
-        "BBB26": {
-          "name": "Big Brother Brasil 26",
-          "cast": [
+            },
             {
               "id": "ana_paula_bbb26",
               "name": "Ana Paula",
