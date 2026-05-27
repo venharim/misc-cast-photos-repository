@@ -4965,7 +4965,7 @@
             },
             {
               "id": "raven_symone_theview",
-              "name": "Raven-Symon\u00e9",
+              "name": "Raven-Symoné",
               "franchise": "The View",
               "category": "The View",
               "archetype": "The Celebrity",
@@ -5235,7 +5235,7 @@
             },
             {
               "id": "ekin-su_c%3flc%3flo%3flu_us2",
-              "name": "Ekin-Su C\u00fclc\u00fclo\u00fclu",
+              "name": "Ekin-Su Cülcüloülu",
               "franchise": "The Traitors (U.S.)",
               "category": "The Traitors (U.S.)",
               "archetype": "The Dramatic",
@@ -5385,7 +5385,7 @@
             },
             {
               "id": "shere%3f_whitfield_us2",
-              "name": "Shere\u00fc Whitfield",
+              "name": "Shereü Whitfield",
               "franchise": "The Traitors (U.S.)",
               "category": "The Traitors (U.S.)",
               "archetype": "The Beauty Queen",
@@ -5775,7 +5775,7 @@
             },
             {
               "id": "mon%3ft_x_change_us4",
-              "name": "Mon\u00fct X Change",
+              "name": "Monüt X Change",
               "franchise": "The Traitors (U.S.)",
               "category": "The Traitors (U.S.)",
               "archetype": "The Primadonna",
@@ -16515,6 +16515,4031 @@
               "gender": "M",
               "age": 18,
               "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/Dark-Pictures/The-Devil-In-Me/Mark.jpg"
+            }
+          ]
+        }
+      }
+    },
+    "BigBrotherUK": {
+      "name": "Big Brother UK",
+      "categories": {
+        "BBUK1": {
+          "name": "Big Brother UK 1",
+          "cast": [
+            {
+              "id": "craig_bbuk1",
+              "name": "Craig",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_craig.webp"
+            },
+            {
+              "id": "anna_bbuk1",
+              "name": "Anna",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_anna.webp"
+            },
+            {
+              "id": "darren_bbuk1",
+              "name": "Darren",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_darren.webp"
+            },
+            {
+              "id": "melanie_bbuk1",
+              "name": "Melanie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_melanie.webp"
+            },
+            {
+              "id": "claire_bbuk1",
+              "name": "Claire",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_claire.webp"
+            },
+            {
+              "id": "tom_bbuk1",
+              "name": "Tom",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_tom.webp"
+            },
+            {
+              "id": "nichola_bbuk1",
+              "name": "Nichola",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_nichola.webp"
+            },
+            {
+              "id": "nick_bbuk1",
+              "name": "Nick",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_nick.webp"
+            },
+            {
+              "id": "caroline_bbuk1",
+              "name": "Caroline",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_caroline.webp"
+            },
+            {
+              "id": "andrew_bbuk1",
+              "name": "Andrew",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_andrew.webp"
+            },
+            {
+              "id": "sada_bbuk1",
+              "name": "Sada",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 1",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK1_sada.webp"
+            }
+          ]
+        },
+        "BBUK2": {
+          "name": "Big Brother UK 2",
+          "cast": [
+            {
+              "id": "brian_bbuk2",
+              "name": "Brian",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_brian.webp"
+            },
+            {
+              "id": "helen_bbuk2",
+              "name": "Helen",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_helen.webp"
+            },
+            {
+              "id": "dean_bbuk2",
+              "name": "Dean",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_dean.webp"
+            },
+            {
+              "id": "elizabeth_bbuk2",
+              "name": "Elizabeth",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_elizabeth.webp"
+            },
+            {
+              "id": "paul_bbuk2",
+              "name": "Paul",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_paul.webp"
+            },
+            {
+              "id": "josh_bbuk2",
+              "name": "Josh",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_josh.webp"
+            },
+            {
+              "id": "amma_bbuk2",
+              "name": "Amma",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_amma.webp"
+            },
+            {
+              "id": "bubble_bbuk2",
+              "name": "Bubble",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_bubble.webp"
+            },
+            {
+              "id": "narinder_bbuk2",
+              "name": "Narinder",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_narinder.webp"
+            },
+            {
+              "id": "stuart_bbuk2",
+              "name": "Stuart",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_stuart.webp"
+            },
+            {
+              "id": "penny_bbuk2",
+              "name": "Penny",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 2",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK2_penny.webp"
+            }
+          ]
+        },
+        "BBUK3": {
+          "name": "Big Brother UK 3",
+          "cast": [
+            {
+              "id": "kate_bbuk3",
+              "name": "Kate",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_kate.webp"
+            },
+            {
+              "id": "jonny_bbuk3",
+              "name": "Jonny",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_jonny.webp"
+            },
+            {
+              "id": "alex_bbuk3",
+              "name": "Alex",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_alex.webp"
+            },
+            {
+              "id": "jade_bbuk3",
+              "name": "Jade",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_jade.webp"
+            },
+            {
+              "id": "tim_bbuk3",
+              "name": "Tim",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_tim.webp"
+            },
+            {
+              "id": "pj_bbuk3",
+              "name": "PJ",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_pj.webp"
+            },
+            {
+              "id": "adele_bbuk3",
+              "name": "Adele",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_adele.webp"
+            },
+            {
+              "id": "sophie_bbuk3",
+              "name": "Sophie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_sophie.webp"
+            },
+            {
+              "id": "spencer_bbuk3",
+              "name": "Spencer",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_spencer.webp"
+            },
+            {
+              "id": "lee_bbuk3",
+              "name": "Lee",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_lee.webp"
+            },
+            {
+              "id": "sandy_bbuk3",
+              "name": "Sandy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_sandy.webp"
+            },
+            {
+              "id": "alison_bbuk3",
+              "name": "Alison",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_alison.webp"
+            },
+            {
+              "id": "lynne_bbuk3",
+              "name": "Lynne",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_lynne.webp"
+            },
+            {
+              "id": "sunita_bbuk3",
+              "name": "Sunita",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 3",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK3_sunita.webp"
+            }
+          ]
+        },
+        "BBUK4": {
+          "name": "Big Brother UK 4",
+          "cast": [
+            {
+              "id": "cameron_bbuk4",
+              "name": "Cameron",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_cameron.webp"
+            },
+            {
+              "id": "ray_bbuk4",
+              "name": "Ray",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_ray.webp"
+            },
+            {
+              "id": "scott_bbuk4",
+              "name": "Scott",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_scott.webp"
+            },
+            {
+              "id": "steph_bbuk4",
+              "name": "Steph",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_steph.webp"
+            },
+            {
+              "id": "nush_bbuk4",
+              "name": "Nush",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_nush.webp"
+            },
+            {
+              "id": "lisa_bbuk4",
+              "name": "Lisa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_lisa.webp"
+            },
+            {
+              "id": "gos_bbuk4",
+              "name": "Gos",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_gos.webp"
+            },
+            {
+              "id": "tania_bbuk4",
+              "name": "Tania",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_tania.webp"
+            },
+            {
+              "id": "jon_bbuk4",
+              "name": "Jon",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_jon.webp"
+            },
+            {
+              "id": "federico_bbuk4",
+              "name": "Federico",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_federico.webp"
+            },
+            {
+              "id": "sissy_bbuk4",
+              "name": "Sissy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_sissy.webp"
+            },
+            {
+              "id": "justine_bbuk4",
+              "name": "Justine",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_justine.webp"
+            },
+            {
+              "id": "anouska_bbuk4",
+              "name": "Anouska",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 4",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK4_anouska.webp"
+            }
+          ]
+        },
+        "BBUK5": {
+          "name": "Big Brother UK 5",
+          "cast": [
+            {
+              "id": "nadia_bbuk5",
+              "name": "Nadia",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_nadia.webp"
+            },
+            {
+              "id": "jason_bbuk5",
+              "name": "Jason",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_jason.webp"
+            },
+            {
+              "id": "dan_bbuk5",
+              "name": "Dan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_dan.webp"
+            },
+            {
+              "id": "shell_bbuk5",
+              "name": "Shell",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_shell.webp"
+            },
+            {
+              "id": "stuart_bbuk5",
+              "name": "Stuart",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_stuart.webp"
+            },
+            {
+              "id": "michelle_bbuk5",
+              "name": "Michelle",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_michelle.webp"
+            },
+            {
+              "id": "victor_bbuk5",
+              "name": "Victor",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_victor.webp"
+            },
+            {
+              "id": "ahmed_bbuk5",
+              "name": "Ahmed",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_ahmed.webp"
+            },
+            {
+              "id": "becki_bbuk5",
+              "name": "Becki",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_becki.webp"
+            },
+            {
+              "id": "marco_bbuk5",
+              "name": "Marco",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_marco.webp"
+            },
+            {
+              "id": "vanessa_bbuk5",
+              "name": "Vanessa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_vanessa.webp"
+            },
+            {
+              "id": "emma_bbuk5",
+              "name": "Emma",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_emma.webp"
+            },
+            {
+              "id": "kitten_bbuk5",
+              "name": "Kitten",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 5",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK5_kitten.webp"
+            }
+          ]
+        },
+        "BBUK6": {
+          "name": "Big Brother UK 6",
+          "cast": [
+            {
+              "id": "anthony_bbuk6",
+              "name": "Anthony",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_anthony.webp"
+            },
+            {
+              "id": "eugene_bbuk6",
+              "name": "Eugene",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_eugene.webp"
+            },
+            {
+              "id": "makosi_bbuk6",
+              "name": "Makosi",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_makosi.webp"
+            },
+            {
+              "id": "kinga_bbuk6",
+              "name": "Kinga",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_kinga.webp"
+            },
+            {
+              "id": "craig_bbuk6",
+              "name": "Craig",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_craig.webp"
+            },
+            {
+              "id": "derek_bbuk6",
+              "name": "Derek",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_derek.webp"
+            },
+            {
+              "id": "orlaith_bbuk6",
+              "name": "Orlaith",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_orlaith.webp"
+            },
+            {
+              "id": "kemal_bbuk6",
+              "name": "Kemal",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_kemal.webp"
+            },
+            {
+              "id": "science_bbuk6",
+              "name": "Science",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_science.webp"
+            },
+            {
+              "id": "vanessa_bbuk6",
+              "name": "Vanessa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_vanessa.webp"
+            },
+            {
+              "id": "maxwell_bbuk6",
+              "name": "Maxwell",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_maxwell.webp"
+            },
+            {
+              "id": "saskia_bbuk6",
+              "name": "Saskia",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_saskia.webp"
+            },
+            {
+              "id": "roberto_bbuk6",
+              "name": "Roberto",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_roberto.webp"
+            },
+            {
+              "id": "sam_bbuk6",
+              "name": "Sam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_sam.webp"
+            },
+            {
+              "id": "lesley_bbuk6",
+              "name": "Lesley",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_lesley.webp"
+            },
+            {
+              "id": "mary_bbuk6",
+              "name": "Mary",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 6",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK6_mary.webp"
+            }
+          ]
+        },
+        "BBUK7": {
+          "name": "Big Brother UK 7",
+          "cast": [
+            {
+              "id": "pete_bbuk7",
+              "name": "Pete",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_pete.webp"
+            },
+            {
+              "id": "glyn_bbuk7",
+              "name": "Glyn",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_glyn.webp"
+            },
+            {
+              "id": "aisleyne_bbuk7",
+              "name": "Aisleyne",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_aisleyne.webp"
+            },
+            {
+              "id": "richard_bbuk7",
+              "name": "Richard",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_richard.webp"
+            },
+            {
+              "id": "nikki_bbuk7",
+              "name": "Nikki",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_nikki.webp"
+            },
+            {
+              "id": "jennie_bbuk7",
+              "name": "Jennie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_jennie.webp"
+            },
+            {
+              "id": "imogen_bbuk7",
+              "name": "Imogen",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_imogen.webp"
+            },
+            {
+              "id": "susie_bbuk7",
+              "name": "Susie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_susie.webp"
+            },
+            {
+              "id": "mikey_bbuk7",
+              "name": "Mikey",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_mikey.webp"
+            },
+            {
+              "id": "spiral_bbuk7",
+              "name": "Spiral",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_spiral.webp"
+            },
+            {
+              "id": "michael_bbuk7",
+              "name": "Michael",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_michael.webp"
+            },
+            {
+              "id": "jayne_bbuk7",
+              "name": "Jayne",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_jayne.webp"
+            },
+            {
+              "id": "lea_bbuk7",
+              "name": "Lea",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_lea.webp"
+            },
+            {
+              "id": "jonathan_bbuk7",
+              "name": "Jonathan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_jonathan.webp"
+            },
+            {
+              "id": "lisa_bbuk7",
+              "name": "Lisa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_lisa.webp"
+            },
+            {
+              "id": "grace_bbuk7",
+              "name": "Grace",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_grace.webp"
+            },
+            {
+              "id": "sam_bbuk7",
+              "name": "Sam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_sam.webp"
+            },
+            {
+              "id": "sezer_bbuk7",
+              "name": "Sezer",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_sezer.webp"
+            },
+            {
+              "id": "george_bbuk7",
+              "name": "George",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_george.webp"
+            },
+            {
+              "id": "bonnie_bbuk7",
+              "name": "Bonnie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_bonnie.webp"
+            },
+            {
+              "id": "dawn_bbuk7",
+              "name": "Dawn",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_dawn.webp"
+            },
+            {
+              "id": "shahbaz_bbuk7",
+              "name": "Shahbaz",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 7",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK7_shahbaz.webp"
+            }
+          ]
+        },
+        "BBUK8": {
+          "name": "Big Brother UK 8",
+          "cast": [
+            {
+              "id": "brian_bbuk8",
+              "name": "Brian",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_brian.webp"
+            },
+            {
+              "id": "liam_bbuk8",
+              "name": "Liam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_liam.webp"
+            },
+            {
+              "id": "ziggy_bbuk8",
+              "name": "Ziggy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_ziggy.webp"
+            },
+            {
+              "id": "carole_bbuk8",
+              "name": "Carole",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_carole.webp"
+            },
+            {
+              "id": "jonty_bbuk8",
+              "name": "Jonty",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_jonty.webp"
+            },
+            {
+              "id": "kara_louise_bbuk8",
+              "name": "Kara-Louise",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_kara_louise.webp"
+            },
+            {
+              "id": "tracey_bbuk8",
+              "name": "Tracey",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_tracey.webp"
+            },
+            {
+              "id": "gerry_bbuk8",
+              "name": "Gerry",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_gerry.webp"
+            },
+            {
+              "id": "amy_bbuk8",
+              "name": "Amy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_amy.webp"
+            },
+            {
+              "id": "david_bbuk8",
+              "name": "David",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_david.webp"
+            },
+            {
+              "id": "shanessa_bbuk8",
+              "name": "Shanessa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_shanessa.webp"
+            },
+            {
+              "id": "chanelle_bbuk8",
+              "name": "Chanelle",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_chanelle.webp"
+            },
+            {
+              "id": "charley_bbuk8",
+              "name": "Charley",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_charley.webp"
+            },
+            {
+              "id": "nicky_bbuk8",
+              "name": "Nicky",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_nicky.webp"
+            },
+            {
+              "id": "thaila_pauline_bbuk8",
+              "name": "Thaila-Pauline",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_thaila_pauline.webp"
+            },
+            {
+              "id": "laura_bbuk8",
+              "name": "Laura",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_laura.webp"
+            },
+            {
+              "id": "jonathan_bbuk8",
+              "name": "Jonathan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_jonathan.webp"
+            },
+            {
+              "id": "billi_bbuk8",
+              "name": "Billi",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_billi.webp"
+            },
+            {
+              "id": "seany_bbuk8",
+              "name": "Seany",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_seany.webp"
+            },
+            {
+              "id": "shabnam_bbuk8",
+              "name": "Shabnam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_shabnam.webp"
+            },
+            {
+              "id": "lesley_bbuk8",
+              "name": "Lesley",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_lesley.webp"
+            },
+            {
+              "id": "emily_bbuk8",
+              "name": "Emily",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 8",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK8_emily.webp"
+            }
+          ]
+        },
+        "BBUK9": {
+          "name": "Big Brother UK 9",
+          "cast": [
+            {
+              "id": "rachel_bbuk9",
+              "name": "Rachel",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_rachel.webp"
+            },
+            {
+              "id": "michael_bbuk9",
+              "name": "Michael",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_michael.webp"
+            },
+            {
+              "id": "sara_bbuk9",
+              "name": "Sara",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_sara.webp"
+            },
+            {
+              "id": "rex_bbuk9",
+              "name": "Rex",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_rex.webp"
+            },
+            {
+              "id": "darnell_bbuk9",
+              "name": "Darnell",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_darnell.webp"
+            },
+            {
+              "id": "kathreya_bbuk9",
+              "name": "Kathreya",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_kathreya.webp"
+            },
+            {
+              "id": "mohamed_bbuk9",
+              "name": "Mohamed",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_mohamed.webp"
+            },
+            {
+              "id": "lisa_bbuk9",
+              "name": "Lisa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_lisa.webp"
+            },
+            {
+              "id": "nicole_bbuk9",
+              "name": "Nicole",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_nicole.webp"
+            },
+            {
+              "id": "stuart_bbuk9",
+              "name": "Stuart",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_stuart.webp"
+            },
+            {
+              "id": "dale_bbuk9",
+              "name": "Dale",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_dale.webp"
+            },
+            {
+              "id": "luke_bbuk9",
+              "name": "Luke",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_luke.webp"
+            },
+            {
+              "id": "maysoon_bbuk9",
+              "name": "Maysoon",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_maysoon.webp"
+            },
+            {
+              "id": "rebecca_bbuk9",
+              "name": "Rebecca",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_rebecca.webp"
+            },
+            {
+              "id": "belinda_bbuk9",
+              "name": "Belinda",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_belinda.webp"
+            },
+            {
+              "id": "mario_bbuk9",
+              "name": "Mario",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_mario.webp"
+            },
+            {
+              "id": "jennifer_bbuk9",
+              "name": "Jennifer",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_jennifer.webp"
+            },
+            {
+              "id": "sylvia_bbuk9",
+              "name": "Sylvia",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_sylvia.webp"
+            },
+            {
+              "id": "dennis_bbuk9",
+              "name": "Dennis",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_dennis.webp"
+            },
+            {
+              "id": "stephanie_bbuk9",
+              "name": "Stephanie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 9",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK9_stephanie.webp"
+            }
+          ]
+        },
+        "BBUK10": {
+          "name": "Big Brother UK 10",
+          "cast": [
+            {
+              "id": "sophie_bbuk10",
+              "name": "Sophie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_sophie.webp"
+            },
+            {
+              "id": "siavash_bbuk10",
+              "name": "Siavash",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_siavash.webp"
+            },
+            {
+              "id": "david_bbuk10",
+              "name": "David",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_david.webp"
+            },
+            {
+              "id": "charlie_bbuk10",
+              "name": "Charlie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_charlie.webp"
+            },
+            {
+              "id": "rodrigo_bbuk10",
+              "name": "Rodrigo",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_rodrigo.webp"
+            },
+            {
+              "id": "lisa_bbuk10",
+              "name": "Lisa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_lisa.webp"
+            },
+            {
+              "id": "marcus_bbuk10",
+              "name": "Marcus",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_marcus.webp"
+            },
+            {
+              "id": "freddie_bbuk10",
+              "name": "Freddie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_freddie.webp"
+            },
+            {
+              "id": "hira_bbuk10",
+              "name": "Hira",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_hira.webp"
+            },
+            {
+              "id": "isaac_bbuk10",
+              "name": "Isaac",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_isaac.webp"
+            },
+            {
+              "id": "noirin_bbuk10",
+              "name": "Noirin",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_noirin.webp"
+            },
+            {
+              "id": "tom_bbuk10",
+              "name": "Tom",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_tom.webp"
+            },
+            {
+              "id": "kenneth_bbuk10",
+              "name": "Kenneth",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_kenneth.webp"
+            },
+            {
+              "id": "karly_bbuk10",
+              "name": "Karly",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_karly.webp"
+            },
+            {
+              "id": "kris_bbuk10",
+              "name": "Kris",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_kris.webp"
+            },
+            {
+              "id": "sree_bbuk10",
+              "name": "Sree",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_sree.webp"
+            },
+            {
+              "id": "angel_bbuk10",
+              "name": "Angel",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_angel.webp"
+            },
+            {
+              "id": "cairon_bbuk10",
+              "name": "Cairon",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_cairon.webp"
+            },
+            {
+              "id": "sophia_bbuk10",
+              "name": "Sophia",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_sophia.webp"
+            },
+            {
+              "id": "saffia_bbuk10",
+              "name": "Saffia",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_saffia.webp"
+            },
+            {
+              "id": "beinazir_bbuk10",
+              "name": "Beinazir",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 10",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK10_beinazir.webp"
+            }
+          ]
+        },
+        "BBUK11": {
+          "name": "Big Brother UK 11",
+          "cast": [
+            {
+              "id": "josie_bbuk11",
+              "name": "Josie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_josie.webp"
+            },
+            {
+              "id": "dave_bbuk11",
+              "name": "Dave",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_dave.webp"
+            },
+            {
+              "id": "mario_bbuk11",
+              "name": "Mario",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_mario.webp"
+            },
+            {
+              "id": "jj_bbuk11",
+              "name": "JJ",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_jj.webp"
+            },
+            {
+              "id": "andrew_bbuk11",
+              "name": "Andrew",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_andrew.webp"
+            },
+            {
+              "id": "john_james_bbuk11",
+              "name": "John James",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_john_james.webp"
+            },
+            {
+              "id": "sam_bbuk11",
+              "name": "Sam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_sam.webp"
+            },
+            {
+              "id": "corin_bbuk11",
+              "name": "Corin",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_corin.webp"
+            },
+            {
+              "id": "steve_bbuk11",
+              "name": "Steve",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_steve.webp"
+            },
+            {
+              "id": "jo_bbuk11",
+              "name": "Jo",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_jo.webp"
+            },
+            {
+              "id": "rachel_bbuk11",
+              "name": "Rachel",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_rachel.webp"
+            },
+            {
+              "id": "ben_bbuk11",
+              "name": "Ben",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_ben.webp"
+            },
+            {
+              "id": "laura_bbuk11",
+              "name": "Laura",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_laura.webp"
+            },
+            {
+              "id": "keeley_bbuk11",
+              "name": "Keeley",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_keeley.webp"
+            },
+            {
+              "id": "ife_bbuk11",
+              "name": "Ife",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_ife.webp"
+            },
+            {
+              "id": "nathan_bbuk11",
+              "name": "Nathan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_nathan.webp"
+            },
+            {
+              "id": "shabby_bbuk11",
+              "name": "Shabby",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_shabby.webp"
+            },
+            {
+              "id": "sunshine_bbuk11",
+              "name": "Sunshine",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_sunshine.webp"
+            },
+            {
+              "id": "govan_bbuk11",
+              "name": "Govan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_govan.webp"
+            },
+            {
+              "id": "rachael_bbuk11",
+              "name": "Rachael",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 11",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK11_rachael.webp"
+            }
+          ]
+        },
+        "BBUK12": {
+          "name": "Big Brother UK 12",
+          "cast": [
+            {
+              "id": "aaron_bbuk12",
+              "name": "Aaron",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_aaron.webp"
+            },
+            {
+              "id": "jay_bbuk12",
+              "name": "Jay",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_jay.webp"
+            },
+            {
+              "id": "alex_bbuk12",
+              "name": "Alex",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_alex.webp"
+            },
+            {
+              "id": "lou_bbuk12",
+              "name": "Lou",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_lou.webp"
+            },
+            {
+              "id": "tom_bbuk12",
+              "name": "Tom",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_tom.webp"
+            },
+            {
+              "id": "faye_bbuk12",
+              "name": "Faye",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_faye.webp"
+            },
+            {
+              "id": "harry_bbuk12",
+              "name": "Harry",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_harry.webp"
+            },
+            {
+              "id": "jem_bbuk12",
+              "name": "Jem",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_jem.webp"
+            },
+            {
+              "id": "anton_bbuk12",
+              "name": "Anton",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_anton.webp"
+            },
+            {
+              "id": "aden_bbuk12",
+              "name": "Aden",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_aden.webp"
+            },
+            {
+              "id": "maisy_bbuk12",
+              "name": "Maisy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_maisy.webp"
+            },
+            {
+              "id": "mark_bbuk12",
+              "name": "Mark",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_mark.webp"
+            },
+            {
+              "id": "heaven_bbuk12",
+              "name": "Heaven",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_heaven.webp"
+            },
+            {
+              "id": "rebeckah_bbuk12",
+              "name": "Rebeckah",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_rebeckah.webp"
+            },
+            {
+              "id": "tashie_bbuk12",
+              "name": "Tashie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 12",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK12_tashie.webp"
+            }
+          ]
+        },
+        "BBUK13": {
+          "name": "Big Brother UK 13",
+          "cast": [
+            {
+              "id": "luke_a_bbuk13",
+              "name": "Luke A",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_luke_a.webp"
+            },
+            {
+              "id": "adam_bbuk13",
+              "name": "Adam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_adam.webp"
+            },
+            {
+              "id": "deana_bbuk13",
+              "name": "Deana",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_deana.webp"
+            },
+            {
+              "id": "sara_bbuk13",
+              "name": "Sara",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_sara.webp"
+            },
+            {
+              "id": "luke_s_bbuk13",
+              "name": "Luke S",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_luke_s.webp"
+            },
+            {
+              "id": "ashleigh_bbuk13",
+              "name": "Ashleigh",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_ashleigh.webp"
+            },
+            {
+              "id": "scott_bbuk13",
+              "name": "Scott",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_scott.webp"
+            },
+            {
+              "id": "connor_bbuk13",
+              "name": "Connor",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_connor.webp"
+            },
+            {
+              "id": "becky_bbuk13",
+              "name": "Becky",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_becky.webp"
+            },
+            {
+              "id": "caroline_bbuk13",
+              "name": "Caroline",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_caroline.webp"
+            },
+            {
+              "id": "lauren_bbuk13",
+              "name": "Lauren",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_lauren.webp"
+            },
+            {
+              "id": "shievonne_bbuk13",
+              "name": "Shievonne",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_shievonne.webp"
+            },
+            {
+              "id": "arron_bbuk13",
+              "name": "Arron",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_arron.webp"
+            },
+            {
+              "id": "lydia_bbuk13",
+              "name": "Lydia",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_lydia.webp"
+            },
+            {
+              "id": "benedict_bbuk13",
+              "name": "Benedict",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_benedict.webp"
+            },
+            {
+              "id": "chris_bbuk13",
+              "name": "Chris",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_chris.webp"
+            },
+            {
+              "id": "victoria_bbuk13",
+              "name": "Victoria",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_victoria.webp"
+            },
+            {
+              "id": "anthony_bbuk13",
+              "name": "Anthony",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_anthony.webp"
+            },
+            {
+              "id": "bhavesh_bbuk13",
+              "name": "Bhavesh",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 13",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK13_bhavesh.webp"
+            }
+          ]
+        },
+        "BBUK14": {
+          "name": "Big Brother UK 14",
+          "cast": [
+            {
+              "id": "sam_bbuk14",
+              "name": "Sam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_sam.webp"
+            },
+            {
+              "id": "dexter_bbuk14",
+              "name": "Dexter",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_dexter.webp"
+            },
+            {
+              "id": "gina_bbuk14",
+              "name": "Gina",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_gina.webp"
+            },
+            {
+              "id": "jack_and_joe_bbuk14",
+              "name": "Jack and Joe",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_jack_and_joe.webp"
+            },
+            {
+              "id": "charlie_bbuk14",
+              "name": "Charlie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_charlie.webp"
+            },
+            {
+              "id": "sophie_bbuk14",
+              "name": "Sophie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_sophie.webp"
+            },
+            {
+              "id": "hazel_bbuk14",
+              "name": "Hazel",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_hazel.webp"
+            },
+            {
+              "id": "callum_bbuk14",
+              "name": "Callum",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_callum.webp"
+            },
+            {
+              "id": "dan_bbuk14",
+              "name": "Dan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_dan.webp"
+            },
+            {
+              "id": "jackie_bbuk14",
+              "name": "Jackie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_jackie.webp"
+            },
+            {
+              "id": "daley_bbuk14",
+              "name": "Daley",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_daley.webp"
+            },
+            {
+              "id": "wolfy_bbuk14",
+              "name": "Wolfy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_wolfy.webp"
+            },
+            {
+              "id": "jemima_bbuk14",
+              "name": "Jemima",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_jemima.webp"
+            },
+            {
+              "id": "sallie_bbuk14",
+              "name": "Sallie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_sallie.webp"
+            },
+            {
+              "id": "bbukmichael_bbuk14",
+              "name": "BBUKMichael",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 14",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK14_bbukmichael.webp"
+            }
+          ]
+        },
+        "BBUK15": {
+          "name": "Big Brother UK 15",
+          "cast": [
+            {
+              "id": "helen_bbuk15",
+              "name": "Helen",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_helen.webp"
+            },
+            {
+              "id": "ashleigh_bbuk15",
+              "name": "Ashleigh",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_ashleigh.webp"
+            },
+            {
+              "id": "christopher_bbuk15",
+              "name": "Christopher",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_christopher.webp"
+            },
+            {
+              "id": "ash_bbuk15",
+              "name": "Ash",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_ash.webp"
+            },
+            {
+              "id": "chris_bbuk15",
+              "name": "Chris",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_chris.webp"
+            },
+            {
+              "id": "pav_bbuk15",
+              "name": "Pav",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_pav.webp"
+            },
+            {
+              "id": "winston_bbuk15",
+              "name": "Winston",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_winston.webp"
+            },
+            {
+              "id": "mark_bbuk15",
+              "name": "Mark",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_mark.webp"
+            },
+            {
+              "id": "zoe_bbuk15",
+              "name": "Zoe",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_zoe.webp"
+            },
+            {
+              "id": "steven_bbuk15",
+              "name": "Steven",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_steven.webp"
+            },
+            {
+              "id": "kimberly_bbuk15",
+              "name": "Kimberly",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_kimberly.webp"
+            },
+            {
+              "id": "danielle_bbuk15",
+              "name": "Danielle",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_danielle.webp"
+            },
+            {
+              "id": "biannca_bbuk15",
+              "name": "Biannca",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_biannca.webp"
+            },
+            {
+              "id": "marlon_bbuk15",
+              "name": "Marlon",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_marlon.webp"
+            },
+            {
+              "id": "jale_bbuk15",
+              "name": "Jale",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_jale.webp"
+            },
+            {
+              "id": "matthew_bbuk15",
+              "name": "Matthew",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_matthew.webp"
+            },
+            {
+              "id": "toya_bbuk15",
+              "name": "Toya",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_toya.webp"
+            },
+            {
+              "id": "pauline_bbuk15",
+              "name": "Pauline",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 15",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK15_pauline.webp"
+            }
+          ]
+        },
+        "BBUK16": {
+          "name": "Big Brother UK 16",
+          "cast": [
+            {
+              "id": "chloe_bbuk16",
+              "name": "Chloe",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_chloe.webp"
+            },
+            {
+              "id": "joel_bbuk16",
+              "name": "Joel",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_joel.webp"
+            },
+            {
+              "id": "danny_bbuk16",
+              "name": "Danny",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_danny.webp"
+            },
+            {
+              "id": "jack_bbuk16",
+              "name": "Jack",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_jack.webp"
+            },
+            {
+              "id": "nick_bbuk16",
+              "name": "Nick",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_nick.webp"
+            },
+            {
+              "id": "christian_bbuk16",
+              "name": "Christian",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_christian.webp"
+            },
+            {
+              "id": "sam_bbuk16",
+              "name": "Sam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_sam.webp"
+            },
+            {
+              "id": "harry_bbuk16",
+              "name": "Harry",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_harry.webp"
+            },
+            {
+              "id": "marc_bbuk16",
+              "name": "Marc",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_marc.webp"
+            },
+            {
+              "id": "simon_bbuk16",
+              "name": "Simon",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_simon.webp"
+            },
+            {
+              "id": "jade_bbuk16",
+              "name": "Jade",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_jade.webp"
+            },
+            {
+              "id": "eileen_bbuk16",
+              "name": "Eileen",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_eileen.webp"
+            },
+            {
+              "id": "sarah_bbuk16",
+              "name": "Sarah",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_sarah.webp"
+            },
+            {
+              "id": "kieran_bbuk16",
+              "name": "Kieran",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_kieran.webp"
+            },
+            {
+              "id": "harriet_bbuk16",
+              "name": "Harriet",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_harriet.webp"
+            },
+            {
+              "id": "aaron_bbuk16",
+              "name": "Aaron",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_aaron.webp"
+            },
+            {
+              "id": "adjoa_bbuk16",
+              "name": "Adjoa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_adjoa.webp"
+            },
+            {
+              "id": "aisleyne_bbuk16",
+              "name": "Aisleyne",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_aisleyne.webp"
+            },
+            {
+              "id": "brian_bbuk16",
+              "name": "Brian",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_brian.webp"
+            },
+            {
+              "id": "helen_bbuk16",
+              "name": "Helen",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_helen.webp"
+            },
+            {
+              "id": "nikki_bbuk16",
+              "name": "Nikki",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 16",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK16_nikki.webp"
+            }
+          ]
+        },
+        "BBUK17": {
+          "name": "Big Brother UK 17",
+          "cast": [
+            {
+              "id": "jason_bbuk17",
+              "name": "Jason",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_jason.webp"
+            },
+            {
+              "id": "hughie_bbuk17",
+              "name": "Hughie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_hughie.webp"
+            },
+            {
+              "id": "jackson_bbuk17",
+              "name": "Jackson",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_jackson.webp"
+            },
+            {
+              "id": "andy_bbuk17",
+              "name": "Andy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_andy.webp"
+            },
+            {
+              "id": "evelyn_bbuk17",
+              "name": "Evelyn",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_evelyn.webp"
+            },
+            {
+              "id": "jayne_bbuk17",
+              "name": "Jayne",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_jayne.webp"
+            },
+            {
+              "id": "sam_bbuk17",
+              "name": "Sam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_sam.webp"
+            },
+            {
+              "id": "alex_bbuk17",
+              "name": "Alex",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_alex.webp"
+            },
+            {
+              "id": "laura_bbuk17",
+              "name": "Laura",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_laura.webp"
+            },
+            {
+              "id": "ryan_bbuk17",
+              "name": "Ryan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_ryan.webp"
+            },
+            {
+              "id": "lateysha_bbuk17",
+              "name": "Lateysha",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_lateysha.webp"
+            },
+            {
+              "id": "chelsea_bbuk17",
+              "name": "Chelsea",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_chelsea.webp"
+            },
+            {
+              "id": "charlie_bbuk17",
+              "name": "Charlie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_charlie.webp"
+            },
+            {
+              "id": "emma_bbuk17",
+              "name": "Emma",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_emma.webp"
+            },
+            {
+              "id": "georgina_bbuk17",
+              "name": "Georgina",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_georgina.webp"
+            },
+            {
+              "id": "natalie_bbuk17",
+              "name": "Natalie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_natalie.webp"
+            },
+            {
+              "id": "marco_bbuk17",
+              "name": "Marco",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_marco.webp"
+            },
+            {
+              "id": "andrew_bbuk17",
+              "name": "Andrew",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_andrew.webp"
+            },
+            {
+              "id": "victoria_bbuk17",
+              "name": "Victoria",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 17",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK17_victoria.webp"
+            }
+          ]
+        },
+        "BBUK18": {
+          "name": "Big Brother UK 18",
+          "cast": [
+            {
+              "id": "houseplan_bbuk18",
+              "name": "Houseplan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_houseplan.webp"
+            },
+            {
+              "id": "isabelle_bbuk18",
+              "name": "Isabelle",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_isabelle.webp"
+            },
+            {
+              "id": "raph_bbuk18",
+              "name": "Raph",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_raph.webp"
+            },
+            {
+              "id": "deborah_bbuk18",
+              "name": "Deborah",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_deborah.webp"
+            },
+            {
+              "id": "tom_bbuk18",
+              "name": "Tom",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_tom.webp"
+            },
+            {
+              "id": "andrew_bbuk18",
+              "name": "Andrew",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_andrew.webp"
+            },
+            {
+              "id": "kieran_bbuk18",
+              "name": "Kieran",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_kieran.webp"
+            },
+            {
+              "id": "hannah_bbuk18",
+              "name": "Hannah",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_hannah.webp"
+            },
+            {
+              "id": "charlotte_bbuk18",
+              "name": "Charlotte",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_charlotte.webp"
+            },
+            {
+              "id": "ellie_bbuk18",
+              "name": "Ellie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_ellie.webp"
+            },
+            {
+              "id": "chanelle_bbuk18",
+              "name": "Chanelle",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_chanelle.webp"
+            },
+            {
+              "id": "sam_bbuk18",
+              "name": "Sam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_sam.webp"
+            },
+            {
+              "id": "sue_bbuk18",
+              "name": "Sue",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_sue.webp"
+            },
+            {
+              "id": "simone_bbuk18",
+              "name": "Simone",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_simone.webp"
+            },
+            {
+              "id": "joe_bbuk18",
+              "name": "Joe",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_joe.webp"
+            },
+            {
+              "id": "savannah_bbuk18",
+              "name": "Savannah",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_savannah.webp"
+            },
+            {
+              "id": "lotan_bbuk18",
+              "name": "Lotan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_lotan.webp"
+            },
+            {
+              "id": "rebecca_bbuk18",
+              "name": "Rebecca",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_rebecca.webp"
+            },
+            {
+              "id": "kayleigh_bbuk18",
+              "name": "Kayleigh",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_kayleigh.webp"
+            },
+            {
+              "id": "sukhvinder_bbuk18",
+              "name": "Sukhvinder",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_sukhvinder.webp"
+            },
+            {
+              "id": "imran_bbuk18",
+              "name": "Imran",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_imran.webp"
+            },
+            {
+              "id": "arthur_bbuk18",
+              "name": "Arthur",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_arthur.webp"
+            },
+            {
+              "id": "mandy_bbuk18",
+              "name": "Mandy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 18",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK18_mandy.webp"
+            }
+          ]
+        },
+        "BBUK19": {
+          "name": "Big Brother UK 19",
+          "cast": [
+            {
+              "id": "house_picture_1_bbuk19",
+              "name": "House Picture 1",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_1.webp"
+            },
+            {
+              "id": "house_picture_2_bbuk19",
+              "name": "House Picture 2",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_2.webp"
+            },
+            {
+              "id": "house_picture_3_bbuk19",
+              "name": "House Picture 3",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_3.webp"
+            },
+            {
+              "id": "house_picture_4_bbuk19",
+              "name": "House Picture 4",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_4.webp"
+            },
+            {
+              "id": "house_picture_5_bbuk19",
+              "name": "House Picture 5",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_5.webp"
+            },
+            {
+              "id": "house_picture_6_bbuk19",
+              "name": "House Picture 6",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_6.webp"
+            },
+            {
+              "id": "house_picture_7_bbuk19",
+              "name": "House Picture 7",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_7.webp"
+            },
+            {
+              "id": "house_picture_8_bbuk19",
+              "name": "House Picture 8",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_8.webp"
+            },
+            {
+              "id": "house_picture_9_bbuk19",
+              "name": "House Picture 9",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_9.webp"
+            },
+            {
+              "id": "house_picture_10_bbuk19",
+              "name": "House Picture 10",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_10.webp"
+            },
+            {
+              "id": "house_picture_11_bbuk19",
+              "name": "House Picture 11",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_house_picture_11.webp"
+            },
+            {
+              "id": "house_picture_12_bbuk19",
+              "name": "House Picture 12",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://static.wikia.nocookie.net/bigbrother/images/e/e6/BBUK19_House_Picture_12.jpg/revision/latest"
+            },
+            {
+              "id": "bb_uk_autumn_bbuk19",
+              "name": "BB UK autumn",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_bb_uk_autumn.webp"
+            },
+            {
+              "id": "cameron_bbuk19",
+              "name": "Cameron",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_cameron.webp"
+            },
+            {
+              "id": "akeem_bbuk19",
+              "name": "Akeem",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_akeem.webp"
+            },
+            {
+              "id": "zoe_bbuk19",
+              "name": "Zoe",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_zoe.webp"
+            },
+            {
+              "id": "cian_bbuk19",
+              "name": "Cian",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_cian.webp"
+            },
+            {
+              "id": "s_an_bbuk19",
+              "name": "Sîan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_s_an.webp"
+            },
+            {
+              "id": "brooke_bbuk19",
+              "name": "Brooke",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_brooke.webp"
+            },
+            {
+              "id": "tomasz_bbuk19",
+              "name": "Tomasz",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_tomasz.webp"
+            },
+            {
+              "id": "lewis_f_bbuk19",
+              "name": "Lewis F",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_lewis_f.webp"
+            },
+            {
+              "id": "isabella_bbuk19",
+              "name": "Isabella",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_isabella.webp"
+            },
+            {
+              "id": "hussain_bbuk19",
+              "name": "Hussain",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_hussain.webp"
+            },
+            {
+              "id": "kenaley_bbuk19",
+              "name": "Kenaley",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_kenaley.webp"
+            },
+            {
+              "id": "isaac_bbuk19",
+              "name": "Isaac",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_isaac.webp"
+            },
+            {
+              "id": "kay_bbuk19",
+              "name": "Kay",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_kay.webp"
+            },
+            {
+              "id": "lewis_g_bbuk19",
+              "name": "Lewis G",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_lewis_g.webp"
+            },
+            {
+              "id": "anam_lia_bbuk19",
+              "name": "Anamélia",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_anam_lia.webp"
+            },
+            {
+              "id": "ellis_bbuk19",
+              "name": "Ellis",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 19",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK19_ellis.webp"
+            }
+          ]
+        },
+        "BBUK20": {
+          "name": "Big Brother UK 20",
+          "cast": [
+            {
+              "id": "jordan_bbuk20",
+              "name": "Jordan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_jordan.webp"
+            },
+            {
+              "id": "olivia_bbuk20",
+              "name": "Olivia",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_olivia.webp"
+            },
+            {
+              "id": "henry_bbuk20",
+              "name": "Henry",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_henry.webp"
+            },
+            {
+              "id": "yinrun_bbuk20",
+              "name": "Yinrun",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_yinrun.webp"
+            },
+            {
+              "id": "noky_bbuk20",
+              "name": "Noky",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_noky.webp"
+            },
+            {
+              "id": "matty_bbuk20",
+              "name": "Matty",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_matty.webp"
+            },
+            {
+              "id": "jenkin_bbuk20",
+              "name": "Jenkin",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_jenkin.webp"
+            },
+            {
+              "id": "tom_bbuk20",
+              "name": "Tom",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_tom.webp"
+            },
+            {
+              "id": "trish_bbuk20",
+              "name": "Trish",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_trish.webp"
+            },
+            {
+              "id": "chanelle_bbuk20",
+              "name": "Chanelle",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_chanelle.webp"
+            },
+            {
+              "id": "dylan_bbuk20",
+              "name": "Dylan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_dylan.webp"
+            },
+            {
+              "id": "paul_bbuk20",
+              "name": "Paul",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_paul.webp"
+            },
+            {
+              "id": "kerry_bbuk20",
+              "name": "Kerry",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_kerry.webp"
+            },
+            {
+              "id": "hallie_bbuk20",
+              "name": "Hallie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_hallie.webp"
+            },
+            {
+              "id": "zak_bbuk20",
+              "name": "Zak",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_zak.webp"
+            },
+            {
+              "id": "farida_bbuk20",
+              "name": "Farida",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 20",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK20_farida.webp"
+            }
+          ]
+        },
+        "BBUK21": {
+          "name": "Big Brother UK 21",
+          "cast": [
+            {
+              "id": "ali_bbuk21",
+              "name": "Ali",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_ali.webp"
+            },
+            {
+              "id": "marcello_bbuk21",
+              "name": "Marcello",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_marcello.webp"
+            },
+            {
+              "id": "emma_bbuk21",
+              "name": "Emma",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_emma.webp"
+            },
+            {
+              "id": "hanah_bbuk21",
+              "name": "Hanah",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_hanah.webp"
+            },
+            {
+              "id": "nathan_bbuk21",
+              "name": "Nathan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_nathan.webp"
+            },
+            {
+              "id": "segun_bbuk21",
+              "name": "Segun",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_segun.webp"
+            },
+            {
+              "id": "thomas_bbuk21",
+              "name": "Thomas",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_thomas.webp"
+            },
+            {
+              "id": "sarah_bbuk21",
+              "name": "Sarah",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_sarah.webp"
+            },
+            {
+              "id": "rosie_bbuk21",
+              "name": "Rosie",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_rosie.webp"
+            },
+            {
+              "id": "khaled_bbuk21",
+              "name": "Khaled",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_khaled.webp"
+            },
+            {
+              "id": "lily_bbuk21",
+              "name": "Lily",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_lily.webp"
+            },
+            {
+              "id": "dean_bbuk21",
+              "name": "Dean",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_dean.webp"
+            },
+            {
+              "id": "martha_bbuk21",
+              "name": "Martha",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_martha.webp"
+            },
+            {
+              "id": "izaaz_bbuk21",
+              "name": "Izaaz",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_izaaz.webp"
+            },
+            {
+              "id": "daze_bbuk21",
+              "name": "Daze",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_daze.webp"
+            },
+            {
+              "id": "ryan_bbuk21",
+              "name": "Ryan",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 21",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK21_ryan.webp"
+            }
+          ]
+        },
+        "BBUK22": {
+          "name": "Big Brother UK 22",
+          "cast": [
+            {
+              "id": "richard_bbuk22",
+              "name": "Richard",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_richard.webp"
+            },
+            {
+              "id": "elsa_bbuk22",
+              "name": "Elsa",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_elsa.webp"
+            },
+            {
+              "id": "jenny_bbuk22",
+              "name": "Jenny",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_jenny.webp"
+            },
+            {
+              "id": "cameron_k_bbuk22",
+              "name": "Cameron K",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_cameron_k.webp"
+            },
+            {
+              "id": "emily_bbuk22",
+              "name": "Emily",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_emily.webp"
+            },
+            {
+              "id": "tate_bbuk22",
+              "name": "Tate",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_tate.webp"
+            },
+            {
+              "id": "teja_bbuk22",
+              "name": "Teja",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_teja.webp"
+            },
+            {
+              "id": "marcus_bbuk22",
+              "name": "Marcus",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_marcus.webp"
+            },
+            {
+              "id": "caroline_bbuk22",
+              "name": "Caroline",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_caroline.webp"
+            },
+            {
+              "id": "nancy_bbuk22",
+              "name": "Nancy",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_nancy.webp"
+            },
+            {
+              "id": "sam_bbuk22",
+              "name": "Sam",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_sam.webp"
+            },
+            {
+              "id": "zelah_bbuk22",
+              "name": "Zelah",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_zelah.webp"
+            },
+            {
+              "id": "farida_bbuk22",
+              "name": "Farida",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_farida.webp"
+            },
+            {
+              "id": "feyisola_bbuk22",
+              "name": "Feyisola",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "F",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_feyisola.webp"
+            },
+            {
+              "id": "cameron_b_bbuk22",
+              "name": "Cameron B",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_cameron_b.webp"
+            },
+            {
+              "id": "george_bbuk22",
+              "name": "George",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_george.webp"
+            },
+            {
+              "id": "gani_bbuk22",
+              "name": "Gani",
+              "franchise": "Big Brother UK",
+              "category": "Big Brother UK 22",
+              "archetype": "The Balanced",
+              "gender": "M",
+              "age": 25,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bbuk/BBUK22_gani.webp"
             }
           ]
         }
