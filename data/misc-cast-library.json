@@ -80990,6 +80990,1256 @@
           ]
         }
       }
+    },
+    "BFDI": {
+      "name": "BFDI",
+      "categories": {
+        "BFDI": {
+          "name": "BFDI",
+          "cast": [
+            {
+              "id": "8_ball_bfdi",
+              "name": "8-Ball",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_8_ball.png"
+            },
+            {
+              "id": "9_ball_bfdi",
+              "name": "9-Ball",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_9_ball.png"
+            },
+            {
+              "id": "airplanes_in_the_night_sky_bfdi",
+              "name": "Airplanes in the Night Sky",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_airplanes_in_the_night_sky.jpg"
+            },
+            {
+              "id": "anchor_bfdi",
+              "name": "Anchor",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_anchor.png"
+            },
+            {
+              "id": "avocado_bfdi",
+              "name": "Avocado",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_avocado.png"
+            },
+            {
+              "id": "balloony_bfdi",
+              "name": "Balloony",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_balloony.png"
+            },
+            {
+              "id": "barf_bag_bfdi",
+              "name": "Barf Bag",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_barf_bag.png"
+            },
+            {
+              "id": "basketball_bfdi",
+              "name": "Basketball",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_basketball.png"
+            },
+            {
+              "id": "battery_bfdi",
+              "name": "Battery",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_battery.png"
+            },
+            {
+              "id": "bell_bfdi",
+              "name": "Bell",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_bell.png"
+            },
+            {
+              "id": "black_hole_bfdi",
+              "name": "Black Hole",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_black_hole.png"
+            },
+            {
+              "id": "blender_bfdi",
+              "name": "Blender",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_blender.png"
+            },
+            {
+              "id": "blocky_bfdi",
+              "name": "Blocky",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_blocky.png"
+            },
+            {
+              "id": "bomby_bfdi",
+              "name": "Bomby",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_bomby.png"
+            },
+            {
+              "id": "book_bfdi",
+              "name": "Book",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_book.png"
+            },
+            {
+              "id": "boom_mic_bfdi",
+              "name": "Boom Mic",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_boom_mic.png"
+            },
+            {
+              "id": "bottle_bfdi",
+              "name": "Bottle",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_bottle.png"
+            },
+            {
+              "id": "bracelety_bfdi",
+              "name": "Bracelety",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_bracelety.png"
+            },
+            {
+              "id": "bubble_bfdi",
+              "name": "Bubble",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_bubble.png"
+            },
+            {
+              "id": "cake_bfdi",
+              "name": "Cake",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_cake.png"
+            },
+            {
+              "id": "camera_bfdi",
+              "name": "Camera",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_camera.png"
+            },
+            {
+              "id": "catch_these_hands_bfdi",
+              "name": "Catch These Hands",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_catch_these_hands.jpg"
+            },
+            {
+              "id": "clapboard_bfdi",
+              "name": "Clapboard",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_clapboard.png"
+            },
+            {
+              "id": "clock_bfdi",
+              "name": "Clock",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_clock.png"
+            },
+            {
+              "id": "cloudy_bfdi",
+              "name": "Cloudy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_cloudy.png"
+            },
+            {
+              "id": "coiny_bfdi",
+              "name": "Coiny",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_coiny.png"
+            },
+            {
+              "id": "conch_shell_bfdi",
+              "name": "Conch Shell",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_conch_shell.png"
+            },
+            {
+              "id": "david_bfdi",
+              "name": "David",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_david.png"
+            },
+            {
+              "id": "discy_bfdi",
+              "name": "Discy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_discy.png"
+            },
+            {
+              "id": "donut_bfdi",
+              "name": "Donut",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_donut.png"
+            },
+            {
+              "id": "dora_bfdi",
+              "name": "Dora",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_dora.png"
+            },
+            {
+              "id": "eggy_bfdi",
+              "name": "Eggy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_eggy.png"
+            },
+            {
+              "id": "eraser_bfdi",
+              "name": "Eraser",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_eraser.png"
+            },
+            {
+              "id": "fanny_bfdi",
+              "name": "Fanny",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_fanny.png"
+            },
+            {
+              "id": "firey_bfdi",
+              "name": "Firey",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_firey.png"
+            },
+            {
+              "id": "firey_jr_bfdi",
+              "name": "Firey Jr.",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_firey_jr.png"
+            },
+            {
+              "id": "firey_speaker_box_bfdi",
+              "name": "Firey Speaker Box",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_firey_speaker_box.png"
+            },
+            {
+              "id": "flower_bfdi",
+              "name": "Flower",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_flower.png"
+            },
+            {
+              "id": "foldy_bfdi",
+              "name": "Foldy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_foldy.png"
+            },
+            {
+              "id": "four_bfdi",
+              "name": "Four",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_four.png"
+            },
+            {
+              "id": "freesmart_bfdi",
+              "name": "FreeSmart",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_freesmart.png"
+            },
+            {
+              "id": "fries_bfdi",
+              "name": "Fries",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_fries.png"
+            },
+            {
+              "id": "gaty_bfdi",
+              "name": "Gaty",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_gaty.png"
+            },
+            {
+              "id": "gelatin_bfdi",
+              "name": "Gelatin",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_gelatin.png"
+            },
+            {
+              "id": "get_digging_bfdi",
+              "name": "Get Digging",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_get_digging.jpg"
+            },
+            {
+              "id": "get_in_the_van_bfdi",
+              "name": "Get in the Van",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_get_in_the_van.jpg"
+            },
+            {
+              "id": "golf_ball_bfdi",
+              "name": "Golf Ball",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_golf_ball.png"
+            },
+            {
+              "id": "grassy_bfdi",
+              "name": "Grassy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_grassy.png"
+            },
+            {
+              "id": "i_m_the_main_character_bfdi",
+              "name": "I'm the Main Character",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_i_m_the_main_character.jpg"
+            },
+            {
+              "id": "ice_cube_bfdi",
+              "name": "Ice Cube",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_ice_cube.png"
+            },
+            {
+              "id": "income_tax_return_document_bfdi",
+              "name": "Income Tax Return Document",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_income_tax_return_document.png"
+            },
+            {
+              "id": "insectophobe_s_nightmare_3_bfdi",
+              "name": "Insectophobe's Nightmare 3",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_insectophobe_s_nightmare_3.jpg"
+            },
+            {
+              "id": "insectophobe_s_nightmare_4_bfdi",
+              "name": "Insectophobe's Nightmare 4",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_insectophobe_s_nightmare_4.png"
+            },
+            {
+              "id": "intruder_alert_bfdi",
+              "name": "Intruder Alert",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_intruder_alert.jpg"
+            },
+            {
+              "id": "it_s_a_monster_bfdi",
+              "name": "It's a Monster",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_it_s_a_monster.jpg"
+            },
+            {
+              "id": "kitchen_sink_bfdi",
+              "name": "Kitchen Sink",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_kitchen_sink.png"
+            },
+            {
+              "id": "launch_party_bfdi",
+              "name": "Launch Party",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_launch_party.jpg"
+            },
+            {
+              "id": "leafy_bfdi",
+              "name": "Leafy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_leafy.png"
+            },
+            {
+              "id": "leek_bfdi",
+              "name": "Leek",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_leek.png"
+            },
+            {
+              "id": "lightning_bfdi",
+              "name": "Lightning",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_lightning.png"
+            },
+            {
+              "id": "liy_bfdi",
+              "name": "Liy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_liy.png"
+            },
+            {
+              "id": "locker_of_losers_bfdi",
+              "name": "Locker of Losers",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_locker_of_losers.png"
+            },
+            {
+              "id": "lollipop_bfdi",
+              "name": "Lollipop",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_lollipop.png"
+            },
+            {
+              "id": "loser_bfdi",
+              "name": "Loser",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_loser.png"
+            },
+            {
+              "id": "lots_of_mud_bfdi",
+              "name": "Lots of Mud",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_lots_of_mud.jpg"
+            },
+            {
+              "id": "marker_bfdi",
+              "name": "Marker",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_marker.png"
+            },
+            {
+              "id": "match_bfdi",
+              "name": "Match",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_match.png"
+            },
+            {
+              "id": "meaty_bfdi",
+              "name": "Meaty",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_meaty.jpg"
+            },
+            {
+              "id": "naily_bfdi",
+              "name": "Naily",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_naily.png"
+            },
+            {
+              "id": "needle_bfdi",
+              "name": "Needle",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_needle.png"
+            },
+            {
+              "id": "nickel_bfdi",
+              "name": "Nickel",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_nickel.png"
+            },
+            {
+              "id": "no_more_snow_bfdi",
+              "name": "No More Snow",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_no_more_snow.jpg"
+            },
+            {
+              "id": "onigiri_bfdi",
+              "name": "Onigiri",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_onigiri.png"
+            },
+            {
+              "id": "pda_bfdi",
+              "name": "PDA",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_pda.png"
+            },
+            {
+              "id": "pen_bfdi",
+              "name": "Pen",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_pen.png"
+            },
+            {
+              "id": "pencil_bfdi",
+              "name": "Pencil",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_pencil.png"
+            },
+            {
+              "id": "pie_bfdi",
+              "name": "Pie",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_pie.png"
+            },
+            {
+              "id": "pillow_bfdi",
+              "name": "Pillow",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_pillow.png"
+            },
+            {
+              "id": "pin_bfdi",
+              "name": "Pin",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_pin.png"
+            },
+            {
+              "id": "pointypointypointy_bfdi",
+              "name": "PointyPointyPointy ♫",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_pointypointypointy.png"
+            },
+            {
+              "id": "price_tag_bfdi",
+              "name": "Price Tag",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_price_tag.png"
+            },
+            {
+              "id": "puffball_bfdi",
+              "name": "Puffball",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_puffball.png"
+            },
+            {
+              "id": "puffball_speaker_box_bfdi",
+              "name": "Puffball Speaker Box",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_puffball_speaker_box.svg"
+            },
+            {
+              "id": "remote_bfdi",
+              "name": "Remote",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_remote.png"
+            },
+            {
+              "id": "respect_to_the_wicked_bfdi",
+              "name": "Respect to the Wicked",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_respect_to_the_wicked.png"
+            },
+            {
+              "id": "robot_flower_bfdi",
+              "name": "Robot Flower",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_robot_flower.png"
+            },
+            {
+              "id": "roboty_bfdi",
+              "name": "Roboty",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_roboty.png"
+            },
+            {
+              "id": "rocky_bfdi",
+              "name": "Rocky",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_rocky.png"
+            },
+            {
+              "id": "rubber_spatula_bfdi",
+              "name": "Rubber Spatula",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_rubber_spatula.png"
+            },
+            {
+              "id": "ruby_bfdi",
+              "name": "Ruby",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_ruby.png"
+            },
+            {
+              "id": "salt_lamp_bfdi",
+              "name": "Salt Lamp",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_salt_lamp.png"
+            },
+            {
+              "id": "sam_thornbury_bfdi",
+              "name": "Sam Thornbury",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_sam_thornbury.jpg"
+            },
+            {
+              "id": "saw_bfdi",
+              "name": "Saw",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_saw.png"
+            },
+            {
+              "id": "say_hijack_bfdi",
+              "name": "Say Hijack",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_say_hijack.jpg"
+            },
+            {
+              "id": "scissors_bfdi",
+              "name": "Scissors",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_scissors.png"
+            },
+            {
+              "id": "shampoo_bfdi",
+              "name": "Shampoo",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_shampoo.png"
+            },
+            {
+              "id": "shattered_bfdi",
+              "name": "Shattered!",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_shattered.jpg"
+            },
+            {
+              "id": "she_deserves_this_bfdi",
+              "name": "She Deserves This",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_she_deserves_this.jpg"
+            },
+            {
+              "id": "shopping_cart_bfdi",
+              "name": "Shopping Cart",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_shopping_cart.png"
+            },
+            {
+              "id": "snare_drum_bfdi",
+              "name": "Snare Drum",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_snare_drum.png"
+            },
+            {
+              "id": "snowball_bfdi",
+              "name": "Snowball",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_snowball.png"
+            },
+            {
+              "id": "spongy_bfdi",
+              "name": "Spongy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_spongy.png"
+            },
+            {
+              "id": "spore_day_bfdi",
+              "name": "Spore Day",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_spore_day.jpg"
+            },
+            {
+              "id": "stapy_bfdi",
+              "name": "Stapy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_stapy.png"
+            },
+            {
+              "id": "start_the_shift_bfdi",
+              "name": "Start the Shift",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_start_the_shift.jpg"
+            },
+            {
+              "id": "tv_bfdi",
+              "name": "TV",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_tv.png"
+            },
+            {
+              "id": "taco_bfdi",
+              "name": "Taco",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_taco.png"
+            },
+            {
+              "id": "tape_bfdi",
+              "name": "Tape",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_tape.png"
+            },
+            {
+              "id": "taste_the_sweetness_bfdi",
+              "name": "Taste the Sweetness",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_taste_the_sweetness.png"
+            },
+            {
+              "id": "teardrop_bfdi",
+              "name": "Teardrop",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_teardrop.png"
+            },
+            {
+              "id": "tennis_ball_bfdi",
+              "name": "Tennis Ball",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_tennis_ball.png"
+            },
+            {
+              "id": "the_long_lost_yoyle_city_bfdi",
+              "name": "The Long-lost Yoyle City",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_the_long_lost_yoyle_city.jpg"
+            },
+            {
+              "id": "tree_bfdi",
+              "name": "Tree",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_tree.png"
+            },
+            {
+              "id": "vhsy_bfdi",
+              "name": "VHSy",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_vhsy.png"
+            },
+            {
+              "id": "we_re_not_friends_bfdi",
+              "name": "We're Not Friends",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_we_re_not_friends.png"
+            },
+            {
+              "id": "weak_trembling_fortress_bfdi",
+              "name": "Weak Trembling Fortress",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_weak_trembling_fortress.png"
+            },
+            {
+              "id": "well_rested_bfdi",
+              "name": "Well Rested",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_well_rested.jpeg"
+            },
+            {
+              "id": "well_look_who_it_is_bfdi",
+              "name": "Well, Look Who It Is!",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_well_look_who_it_is.jpg"
+            },
+            {
+              "id": "winner_bfdi",
+              "name": "Winner",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_winner.png"
+            },
+            {
+              "id": "woody_bfdi",
+              "name": "Woody",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_woody.png"
+            },
+            {
+              "id": "x_bfdi",
+              "name": "X",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_x.png"
+            },
+            {
+              "id": "yeah_who_i_wanna_know_bfdi",
+              "name": "Yeah, Who? I Wanna Know",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_yeah_who_i_wanna_know.jpg"
+            },
+            {
+              "id": "yellow_face_bfdi",
+              "name": "Yellow Face",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_yellow_face.png"
+            },
+            {
+              "id": "zeeky_boogy_doog_bfdi",
+              "name": "Zeeky Boogy Doog",
+              "franchise": "BFDI",
+              "category": "BFDI",
+              "archetype": "The Balanced",
+              "gender": "Non-binary",
+              "age": 18,
+              "photoUrl": "https://raw.githubusercontent.com/venharim/misc-cast-photos-repository/main/images/cast/bfdi/BFDI_zeeky_boogy_doog.jpg"
+            }
+          ]
+        }
+      }
     }
   }
 }
