@@ -81346,11 +81346,11 @@
       }
     },
     "SurvivorORG": {
-      "name": "Survivor ORG",
+      "name": "Survivor ORG Wiki",
       "excludeFromRandom": true,
       "categories": {
         "SurvivorORG": {
-          "name": "Survivor ORG",
+          "name": "Survivor ORG Wiki",
           "cast": [
             {
               "id": "kyle_sorg2",
